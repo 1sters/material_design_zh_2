@@ -50,7 +50,8 @@ Google I/O 2014 发布 [Material Design](http://www.google.com/design/spec/mater
 - [marshluca](https://github.com/marshluca)   
 - [vincent4j](https://github.com/vincent4j)   
 - [ZeroLu](https://github.com/ZeroLu)   
-- [fortianwei](https://github.com/fortianwei)  
+- [fortianwei](https://github.com/fortianwei) 
+- [seermole766](https://github.com/seermole766)   
 - [众译网 zhongyi.in](http://zhongyi.in)       
 
 ### 校对
