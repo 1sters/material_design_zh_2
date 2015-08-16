@@ -1,6 +1,6 @@
 {
     "name": "Material Design 中文版",
-    "introduction": "Google I/O 2014 发布的 Material Design 将会成为统一 Android，Chrome 等平台的设计语言规范，对从业人员意义重大，我们通过互联网的方式将其翻译成中文。",
+    "introduction": "Google I/O 2014 发布 Material Design，1sters 于 2014-09-09 上线中文版，并稳稳占据百度和 Google「material design」关键字的第一名。历时一年，官方已经新增 20+ 章节，我们再次发力，于「2015-08-16」翻译校对完毕所有新增章节，重新发布。",
     "path": {
         "content": "material-design",
         "images": "material-design/images"
