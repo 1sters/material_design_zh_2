@@ -1,9 +1,8 @@
 {
-    "name": "Material Design 中文协同翻译",
+    "name": "Material Design 中文版",
     "introduction": "Google I/O 2014 发布的 Material Design 将会成为统一 Android，Chrome 等平台的设计语言规范，对从业人员意义重大，我们通过互联网的方式将其翻译成中文。",
     "path": {
         "content": "material-design",
-        "toc": "material-design/TOC.md",
         "images": "material-design/images"
     }
 

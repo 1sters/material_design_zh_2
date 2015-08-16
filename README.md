@@ -1,4 +1,4 @@
-# Material Design 中文协同翻译
+# Material Design 中文版
 
 Google I/O 2014 发布的 Material Design 将会成为统一 Android，Chrome 等平台的设计语言规范，对从业人员意义重大，我们已通过互联网的方式将其翻译成中文~
 
@@ -52,12 +52,4 @@ Google I/O 2014 发布的 Material Design 将会成为统一 Android，Chrome �
 - [hyaocuk](https://github.com/hyaocuk)  
 - [vincent4j](https://github.com/vincent4j)   
 
-新增章节部分由赵冲领导的众译网([zhongyi.in](http://zhongyi.in))团队翻译完成。
-
-## 编写规范 
-
-[issue#89](https://github.com/1sters/material_design_zh/issues/89)
-
-> 本课程由极客学院 Wiki 团队整理完成，转载及商业合作请联系： wiki@jikexueyuan.com      
-> 
-> 极客学院 Wiki 邮件订阅： [http://tinyletter.com/jikexueyuanwiki](http://tinyletter.com/jikexueyuanwiki)
+新增章节部分由赵冲领导的众译网([zhongyi.in](http://zhongyi.in))团队翻译完成。   
