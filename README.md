@@ -4,7 +4,7 @@
 
 Google I/O 2014 发布 [Material Design](http://www.google.com/design/spec/material-design/)，[1sters](https://github.com/1sters/) 于 2014-09-09 上线中文版，并稳稳占据百度和 Google `material design` 关键字的第一名。  
 
-历时一年，官方已经新增 20+ 章节，我们再次发力，于「2015-08-16」翻译校对完毕所有新增章节，重新发布。为了省去网站开发和运维的时间成本，本次发布直接托管在「[极客学院 Wiki](http://wiki.jikexueyuan.com)」提供的图文教程平台之上。   
+历时一年，官方已经新增 20+ 章节，我们再次发力，于「2015-08-16」翻译校对完毕所有新增章节，重新发布。为了省去网站开发和运维的时间成本，本次发布直接托管在 [极客学院 Wiki](http://wiki.jikexueyuan.com) 提供的图文教程平台之上。   
 
 到来的朋友请 `点赞` 或 `分享吆喝` 支持，想进一步深入交流，请加 QQ 群：137198122
 
@@ -13,16 +13,16 @@ Google I/O 2014 发布 [Material Design](http://www.google.com/design/spec/mater
 官方英文文档：     
 <http://www.google.com/design/spec/material-design/>
 
-中文翻译版网站：   
+中文版网站：   
 <http://wiki.jikexueyuan.com/project/material-design/>
 
-中文翻译版 GitHub 仓库：  
+中文版 GitHub 仓库：  
 <https://github.com/1sters/material_design_zh_2>
 
-> 第一版网站（已关停）：   
+> 中文版第一版网站（已关停）：   
 > <http://design.1sters.com>   
 >   
-> 第一版 GitHub 仓库：   
+> 中文版第一版 GitHub 仓库：   
 > <https://github.com/1sters/material_design_zh>  
 
 ## 参与者（按认领章节排序）
