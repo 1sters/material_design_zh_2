@@ -19,7 +19,7 @@
 
 浮动操作按钮
 
-![](../images/6_2.png)   
+<img src="../images/6_2.png" alt="" width=240 height=426 />   
 
 迷你浮动操作按钮
 
@@ -50,21 +50,21 @@
 
 不是每个屏幕都需要浮动操作按钮。一个浮动操作按钮能够代表这个 App 中的主要操作
 
-![](../images/6_5.png)   
+<img src="../images/6_5.png" alt="" width=240 height=426 />
 
 正确：主要操作是在画廊里触摸图片，所以不需要任何按钮。
 
-![](../images/6_6.png)   
+<img src="../images/6_6.png" alt="" width=240 height=426 />
 
 正确：主要操作是添加文件夹。
 
 一个屏幕只推荐使用一个浮动操作按钮来增加其显著性。它应该只代表最常见的操作。
 
-![](../images/6_7.png)   
+<img src="../images/6_7.png" alt="" width=240 height=426 />   
 
 错误
 
-![](../images/6_8.png)   
+<img src="../images/6_8.png" alt="" width=240 height=426 />  
 
 错误
 
@@ -257,31 +257,31 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 
 通过给予用最好、最显眼以及最少的选项来减少选择疲劳。
 
-![](../images/6_17.png)   
+<img src="../images/6_17.png" alt="" width=240 height=426 />   
 
 一个浮动操作按钮至少应该弹出三个以上的选项。
 
-![](../images/6_18.png)   
+<img src="../images/6_18.png" alt="" width=240 height=426 />  
 
 一个浮动操作按钮应该弹出不超过六个选项。
 
 不要在浮动操作按钮的选项中放置外链按钮。从原始屏幕到目的页面应该最多两次点击。
 
-![](../images/6_19.png)   
+<img src="../images/6_19.png" alt="" width=240 height=426 />   
 
 选项应该指明目的页面。
 
-![](../images/6_20.png)   
+<img src="../images/6_20.png" alt="" width=240 height=426 />    
 
 选项不应该包含外链菜单。
 
 将外链操作放置在工具栏的外链菜单中，而不是放置在浮动操作按钮中。
 
-![](../images/6_21.png)   
+<img src="../images/6_21.png" alt="" width=240 height=426 />    
 
 外链菜单在工具栏中。
 
-![](../images/6_22.png)   
+<img src="../images/6_8.png" alt="" width=240 height=426 />  
 
 外链菜单在工具栏中。
 
@@ -305,11 +305,11 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 
 浮动操作按钮可以包含一个联系人列表。这个列表不应该包含不相关的操作。
 
-![](../images/6_27.png)   
+<img src="../images/6_27.png" alt="" width=240  />  
 
 浮动操作按钮可以转变为一个联系人列表。
 
-![](../images/6_28.png)   
+<img src="../images/6_28.png" alt="" width=240 height= />   
 
 浮动操作按钮不应该转变为不相关的操作。
 
