@@ -25,11 +25,11 @@
 
 浮动操作按钮应至少放在距手机边缘 16dp 或电脑/台式机边缘 24dp 的地方。
 
-![](../images/6_3.png)   
+<img src="../images/6_3.png" alt="" width=360 height=270 />     
 
 浮动操作按钮红线。
 
-![](../images/6_4.png)   
+<img src="../images/6_4.png" alt="" width=360 height=270 />    
 
 迷你浮动操作按钮红线
 
