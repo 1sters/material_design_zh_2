@@ -286,11 +286,11 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 
 外链菜单在工具栏中。
 
-![](../images/6_23.png)   
+<img src="../images/6_23.png" alt="" width=360 height=256 />  
 
 浮动操作按钮并非弹出菜单。
 
-![](../images/6_24.png)   
+<img src="../images/6_24.png" alt="" width=360 height=256 />   
 
 浮动操作按钮并非弹出菜单。
 
