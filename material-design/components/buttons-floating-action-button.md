@@ -267,11 +267,11 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 
 不要在浮动操作按钮的选项中放置外链按钮。从原始屏幕到目的页面应该最多两次点击。
 
-<img src="../images/6_19.png" alt="" width=240 height=426 />   
+<img src="../images/6_19.png" alt=""  />   
 
 选项应该指明目的页面。
 
-<img src="../images/6_20.png" alt="" width=240 height=426 />    
+<img src="../images/6_20.png" alt=""  />    
 
 选项不应该包含外链菜单。
 
@@ -281,7 +281,7 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 
 外链菜单在工具栏中。
 
-<img src="../images/6_8.png" alt="" width=240 height=426 />  
+<img src="../images/6_22.png" alt="" width=240 height=426 />  
 
 外链菜单在工具栏中。
 
