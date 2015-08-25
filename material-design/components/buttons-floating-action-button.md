@@ -101,11 +101,11 @@ APP 主要操作的图案强制使用圆形图标
 
 不要给浮动操作按钮额外的维度。
 
-![](../images/6_13.png)   
+<img src="../images/6_13.png" alt="" width=240 height=171 />    
 
 正确
 
-![](../images/6_14.png)  
+<img src="../images/6_13.png" alt="" width=240 height=171 /> 
 
 错误
 
