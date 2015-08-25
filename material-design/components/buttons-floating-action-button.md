@@ -15,7 +15,7 @@
 - 默认尺寸：适用于多数应用情况。
 - 迷你尺寸：仅用于创建与其他屏幕元素视觉的连续性。
 
-<img src=“../images/6_2.png” alt="Drawing" width="200"></img>
+<p><img src="../images/6_1.png" alt="" width=“240” height=“426” />   </p>
 
 浮动操作按钮
 
