@@ -245,7 +245,7 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 <source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_card_01.mp4">
 </video>
 
-一个浮动按钮转变为一个 materila 单页
+一个浮动按钮转变为一个 material 单页
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_card_02.mp4">
