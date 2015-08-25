@@ -267,21 +267,22 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 
 不要在浮动操作按钮的选项中放置外链按钮。从原始屏幕到目的页面应该最多两次点击。
 
-<img src="../images/6_19.png" alt=""  />   
+<img src="../images/6_19.png" alt="" width=360 height=256 />  
+  
 
 选项应该指明目的页面。
 
-<img src="../images/6_20.png" alt=""  />    
+<img src="../images/6_20.png" alt="" width=360 height=256 />   
 
 选项不应该包含外链菜单。
 
 将外链操作放置在工具栏的外链菜单中，而不是放置在浮动操作按钮中。
 
-![](../images/6_21.png)    
+<img src="../images/6_21.png" alt="" width=360 height=256 />    
 
 外链菜单在工具栏中。
 
-![](../images/6_22.png)
+<img src="../images/6_22.png" alt="" width=360 height=256 />
 
 外链菜单在工具栏中。
 
@@ -358,31 +359,31 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 
 浮动操作按钮可以附属到一个扩展的 app bar。
 
-![](../images/6_29.png)   
+<img src="../images/6_29.png" alt="" width=380 height=285 /> 
 
 正确
 
 浮动操作按钮可以被附属到单页中的一个工具栏或者结构化元素（只要没有阻碍其他元素）。
 
-![](../images/6_30.png)   
+<img src="../images/6_30.png" alt="" width=380 height=285 />    
 
 正确
 
 浮动操作按钮可以被附属到一个单页的边缘。
 
-![](../images/6_31.png)   
+<img src="../images/6_31.png" alt="" width=380 height=285 />   
 
 正确
 
 单个屏幕上不要多与一个浮动操作按钮。
 
-![](../images/6_32.png)   
+<img src="../images/6_32.png" alt="" width=380 height=285 />   
 
 错误
 
 不要将浮动操作按钮与屏幕上的每个元素都联系起来。
 
-![](../images/6_33.png)   
+<img src="../images/6_33.png" alt="" width=380 height=285 />   
 
 错误
 
