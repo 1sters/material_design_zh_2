@@ -277,11 +277,11 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 
 将外链操作放置在工具栏的外链菜单中，而不是放置在浮动操作按钮中。
 
-<img src="../images/6_21.png" alt="" width=240 height=426 />    
+![](../images/6_21.png)    
 
 外链菜单在工具栏中。
 
-<img src="../images/6_22.png" alt="" width=240 height=426 />  
+![](../images/6_22.png)
 
 外链菜单在工具栏中。
 
