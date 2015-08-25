@@ -91,11 +91,11 @@
 
 APP 主要操作的图案强制使用圆形图标
 
-![](../images/6_11.png)   
+<img src="../images/6_11.png" alt="" width=240 height=171 />  
 
 正确
 
-![](../images/6_12.png)   
+<img src="../images/6_12.png" alt="" width=240 height=171 /> 
 
 错误
 
