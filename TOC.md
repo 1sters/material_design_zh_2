@@ -24,7 +24,7 @@
 - 组件
   - [底部动作条](components/bottom-sheets.md)
   - [按钮](components/buttons.md)
-  - [按钮：浮动动作按钮](components/buttons-floating-action-button.md)
+  - [按钮：浮动操作按钮](components/buttons-floating-action-button.md)
   - [卡片](components/cards.md)
   - [纸片](components/chips.md)
   - [数据表格](components/data-tables.md)
