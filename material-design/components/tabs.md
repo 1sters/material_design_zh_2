@@ -54,10 +54,12 @@ Tab 溢出标识码，第一步
 Tabs 也不是用于内容切换或是内容分页的（例如：应用中页面之间的切换）。
 
 ![](../images/components-tabs-usage-tabs_do_10_large_mdpi.png)  
-要
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/components-tabs-usage-tabs_dont_10_large_mdpi.png)  
-不要
+
+<p> <font color="red">⬆️错误</font></p>
 
 ### Tab 特性
 
@@ -76,16 +78,21 @@ Tabs 应该归类并且每组 tabs 中内容顺序相连。
 保持 tabs 和他们的内容相邻，可以明确两者间的关系，距离太远会让人误解。
 
 ![](../images/components-tabs-usage-tabs_do_06_large_mdpi.png)  
-要
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/components-tabs-usage-tabs_dont_06_large_mdpi.png)  
-不要
+
+<p> <font color="red">⬆️错误</font></p>
 
 ![](../images/components-tabs-usage-tabs_do_08_large_mdpi.png)  
-要
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/components-tabs-usage-tabs_dont_08_large_mdpi.png)  
-不要
+
+<p> <font color="red">⬆️错误</font></p>
+
 
 ## 内容
 

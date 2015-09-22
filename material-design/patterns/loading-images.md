@@ -35,10 +35,12 @@
 注意不要让图片过度曝光。
 
 ![](../images/14_5.png)
-正确
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/14_6.png)
-错误
+
+<p> <font color="red">⬆️错误</font></p>
 
 ### 持续时间   
 

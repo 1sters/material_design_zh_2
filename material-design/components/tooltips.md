@@ -8,10 +8,12 @@
 2. 主要是图形而非文本
 
 ![](../images/components-tooltips-usage-tooltips_06a_large_mdpi.png)  
-要
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/components-tooltips-usage-tooltips_06b_large_mdpi.png)  
-不要
+
+<p> <font color="red">⬆️错误</font></p>
 
 工具提示不同于悬浮卡片，后者用来显示图片和格式化的文本等更为丰富的信息。
 
@@ -19,10 +21,12 @@
 
 
 ![](../images/components-tooltips-usage-tooltips_13a_large_mdpi.png)  
-要(Do)
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/components-tooltips-usage-tooltips_13b_large_mdpi.png)  
-不要(Don't)
+
+<p> <font color="red">⬆️错误</font></p>
 
 ## 光标和键盘的工具提示
 

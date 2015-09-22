@@ -43,22 +43,22 @@
 
 ![](../images/style-imagery-bestpractices-multiple-mediums-a_large_mdpi.png)    
  
-要  
+<p> <font color="green">⬆️正确</font></p>
 对于特定的实物，首先考虑用摄影来表现。 
 
 ![](../images/style-imagery-bestpractices-multiple-mediums-b_large_mdpi.png)    
  
-要  
+<p> <font color="green">⬆️正确</font></p>
 当所表达的内容并非具体实物（或者不能被具体实物所概括）时，绘画则可以传达出你的应用程序的信息，并且允许用户一目了然的理解内容。
 
 ![](../images/style-imagery-bestpractices-watch_stock-do_large_mdpi.png)     
 
-要  
+<p> <font color="green">⬆️正确</font></p>
 如果你使用摄影来传达一种概念，你需要创建一些具有思考性的，甚至是隐含寓意的作品。  
 
 ![](../images/style-imagery-bestpractices-watch-stock-dont_large_mdpi.png)    
  
-不要  
+<p> <font color="red">⬆️错误</font></p> 
 不要局限于图片库。
 
 ### 远离图片库(Stay away from stock)
@@ -71,33 +71,33 @@
 
 
 ![](../images/style-imagery-bestpractices-stock-do_large_mdpi.png)  
-要
 
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/style-imagery-bestpractices-stock-dont_large_mdpi.png) 
-不要
 
+<p> <font color="red">⬆️错误</font></p>
 ### 有焦点
 
 你的图像应当有一个标志性的焦点。小到单一物体，大到整体布局，都可以成为焦点。确保能够用一个让人印象深刻的方法，传递给用户一个清晰的概念。
 
 ![](../images/style-imagery-bestpractices-point-focus-reminder-do_large_mdpi.png)  
-要  
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/style-imagery-bestpractices-point-focus-reminder-dont_large_mdpi.png)  
-不要
+<p> <font color="red">⬆️错误</font></p>
 
 ![](../images/style-imagery-bestpractices-point-focus-sf-do_large_mdpi.png)  
-要  
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/style-imagery-bestpractices-point-focus-sf-dont_large_mdpi.png)  
-不要
+<p> <font color="red">⬆️错误</font></p>
 
 ![](../images/style-imagery-bestpractices-point-focus-flight-do_large_mdpi.png)  
-要  
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/style-imagery-bestpractices-point-focus-flight-dont_large_mdpi.png)  
-不要
+<p> <font color="red">⬆️错误</font></p>
 
 
 ### 构建叙事(Build narratives)
@@ -105,32 +105,32 @@
 创建一个让人感觉身临其境的故事和上下文(context)场景。
 
 ![](../images/style-imagery-bestpractices-narrative-appointment-do_large_mdpi.png)  
-要
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/style-imagery-bestpractices-narrative-appointment-dont_large_mdpi.png)  
-不要
+<p> <font color="red">⬆️错误</font></p>
 
 ![](../images/style-imagery-bestpractices-narrative-carseat-do_large_mdpi.png)  
-要
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/style-imagery-bestpractices-narrative-carseat-dont_large_mdpi.png)  
-不要
+<p> <font color="red">⬆️错误</font></p>
 
 ### 不要过度操作
 
 保持图像的原始完整性。不要过度使用高度滤镜或高斯模糊，尤其是当试图去隐藏劣化(degradation)的时候。
 
 ![](../images/style-imagery-bestpractices-manipulate-flowers-do_large_mdpi.png)  
-要
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/style-imagery-bestpractices-manipulate-flowers-dont_large_mdpi.png)  
-不要
+<p> <font color="red">⬆️错误</font></p>
 
 ![](../images/style-imagery-bestpractices-manipulate-lake-do_large_mdpi.png)  
-要
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/style-imagery-bestpractices-manipulate-lake-dont_large_mdpi.png)  
-不要
+<p> <font color="red">⬆️错误</font></p>
 
 ## 用户界面集成(UI Integration)
 
@@ -140,11 +140,11 @@
 	
  
 ![](../images/style-imagery-integration-resolutiona_large_mdpi.png)  
-要  
+<p> <font color="green">⬆️正确</font></p>
 尺寸得当的图像  
 
 ![](../images/style-imagery-integration-resolutionb_large_mdpi.png)  
-不要  
+<p> <font color="red">⬆️错误</font></p>
 劣化的图像
 
 ### 调整大小(Introduce Scale)
@@ -163,33 +163,38 @@
 
 ![](../images/style-imagery-integration-typetreatment1do_large_mdpi.png)     
 
-要     
+<p> <font color="green">⬆️正确</font></p>  
 
 暗纱(dark scrims)理想的透明度应当在 20％-40％ 之间,亮纱(light scrims)理想的透明度应当在 40％-60％ 之间，都要视具体内容来定。
 
 ![](../images/style-imagery-integration-typetreatment1dont_large_mdpi.png)    
  
-不要  
+<p> <font color="red">⬆️错误</font></p>
+
 不要过度用文字保护纱遮挡住图像内容。
  
  
 ![](../images/style-imagery-integration-typetreatment2do_large_mdpi.png)   
   
-要   
+<p> <font color="green">⬆️正确</font></p> 
+ 
 对于大一些的风景图，应该在特定的区域内加入文字保护纱， 不要覆盖住整个图像。
 
 ![](../images/style-imagery-integration-typetreatment2dont_large_mdpi.png)     
 
-不要  
+<p> <font color="red">⬆️错误</font></p>
+
 不要过度覆盖大图像。
  
 ![](../images/style-imagery-integration-typetreatment3do_large_mdpi.png)    
  
-要  
+<p> <font color="green">⬆️正确</font></p>
+
 颜色叠加不同于文字保护纱(text-protection scrims)，可以用来作为设计元素。当创造互补的颜色叠加的时候，要从与其并列的内容中取样，这样才能够产生出和谐一致的色板，从而展现出良好的内容意识。   
  
 ![](../images/style-imagery-integration-typetreatment3dont_large_mdpi.png)  
-不要
+
+<p> <font color="red">⬆️错误</font></p>
 
 ### 头像和缩略图
 
