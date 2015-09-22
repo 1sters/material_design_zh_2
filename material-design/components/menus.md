@@ -87,24 +87,30 @@
 不要重复显示选中的菜单项。
 
 ![](../images/components-menus-behavior-menus-p-01_large_mdpi.png)  
-要（Do）
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/components-menus-behavior-menus-p-02_large_mdpi.png)  
-不要（Don't)
+
+<p> <font color="red">⬆️错误</font></p>
 
 菜单不要与触摸的位置水平对齐。
 
 ![](../images/components-menus-behavior-menus-p-03a_large_mdpi.png)  
-要（Do）
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/components-menus-behavior-menus-p-03b_large_mdpi.png)  
-要（Do）
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/components-menus-behavior-menus-p-04a_large_mdpi.png)  
-不要（Don't)
 
-![](../images/components-menus-behavior-menus-p-04b_large_mdpi.png)  
-不要（Don't)
+<p> <font color="red">⬆️错误</font></p>
+
+![](../images/components-menus-behavior-menus-p-04b_large_mdpi.png) 
+ 
+<p> <font color="red">⬆️错误</font></p>
 
 ## 尺寸标准
 

@@ -37,17 +37,20 @@
 * Pannable内容
 
 ![1](../images/patterns_swipetorefresh_dont1_mdpi.png)  
-不要  
+
+<p> <font color="red">⬆️错误</font></p>
 
 抽屉式导航栏（如果在应用中存在）包括导航选项，不是动态内容。
 
 ![2](../images/patterns_swipetorefresh_dont2_mdpi.png)  
-不要
+
+<p> <font color="red">⬆️错误</font></p>
 
 主屏幕小插件应该自动更新内容。
 
 ![3](../images/patterns_swipetorefresh_dont3_mdpi.png)  
-不要   
+
+<p> <font color="red">⬆️错误</font></p>
 
 Pannable内容，像地图，没有一个主要的方向或者内容起点，用户能认做滑动刷新的起点。
 
@@ -58,20 +61,28 @@ Pannable内容，像地图，没有一个主要的方向或者内容起点，用
 刷新图标，当下拉停止时，在刷新内容的垂直正中间位置。
 
 ![postion1](../images/patterns_swipetorefresh_position1_mdpi.png)   
-要  
+
+<p> <font color="green">⬆️正确</font></p>
+
 ![postion2](../images/patterns_swipetorefresh_position2_mdpi.png)  
-不要     
+
+<p> <font color="red">⬆️错误</font></p>
+
 ![postion3](../images/patterns_swipetorefresh_position3_mdpi.png)
-不要
+
+<p> <font color="red">⬆️错误</font></p>
 
 刷新图标位置靠近刷新内容的顶部
 
 准确的垂直下拉停止位置可以被调节以促使和下来的布局和谐。例如，图标可以落在材质边缘或者网格线上，只要它位于刷新内容的顶部。
 
 ![postion4](../images/patterns_swipetorefresh_position4_mdpi.png)    
-要  
+
+<p> <font color="green">⬆️正确</font></p>
+
 ![postion5](../images/patterns_swipetorefresh_position5_mdpi.png)   
-不要  
+
+<p> <font color="red">⬆️错误</font></p>
 
 行为：
 
@@ -82,7 +93,8 @@ Pannable内容，像地图，没有一个主要的方向或者内容起点，用
 <video crossorigin="anonymous"  loop  controls width="360" height="640">
 <source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsUkpNWUx6NFI4clE/patterns-swipetorefresh-behavior_do_xhdpi_009.webm">
 </video>
-要
+
+<p> <font color="green">⬆️正确</font></p>
 
 保持刷新图标在视图上直到活动完成，并且反馈刷新后的状态。
 
@@ -90,7 +102,7 @@ Pannable内容，像地图，没有一个主要的方向或者内容起点，用
 <source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsQ295RkQ0ZWFzMms/patterns-swipetorefresh-behavior_dont_xhdpi_009.webm">
 </video>   
 
-不要   
+<p> <font color="red">⬆️错误</font></p>
 
 滑动刷新图标离开屏幕隐藏刷新活动的状态并且可能意味着刷新活动和视图内一个特定的相关连，如一个卡片而不是整个视图。
 

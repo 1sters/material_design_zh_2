@@ -62,14 +62,14 @@
 <source src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-materialresponse-PointOfOrigin_DO_003.mp4">
 </video>   
  
-要  
+<p> <font color="green">⬆️正确</font></p>
 元素从触控点展开时，通过视觉效果将元素与触控点联系起来。
 
 <video crossorigin="anonymous"  loop  controls width=“” height="">
 <source src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-materialresponse-PointOfOrigin_DONT_003.mp4">
 </video>    
 
-不要  
+<p> <font color="red">⬆️错误</font></p>
 卡片元素从屏幕正中央出现，用户无法把触控点与卡片元素联系起来。
 
 

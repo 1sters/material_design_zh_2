@@ -52,21 +52,21 @@
 
 <img src="../images/6_5.png" alt="" width=240 height=426 />
 
-正确：主要操作是在画廊里触摸图片，所以不需要任何按钮。
+<p> <font color="green">⬆️正确：主要操作是在画廊里触摸图片，所以不需要任何按钮。</font></p>
 
 <img src="../images/6_6.png" alt="" width=240 height=426 />
 
-正确：主要操作是添加文件夹。
+<p> <font color="green">⬆️正确：主要操作是添加文件夹。</font></p>
 
 一个屏幕只推荐使用一个浮动操作按钮来增加其显著性。它应该只代表最常见的操作。
 
 <img src="../images/6_7.png" alt="" width=240 height=426 />   
 
-错误
+<p> <font color="red">⬆️错误</font></p>
 
 <img src="../images/6_8.png" alt="" width=240 height=426 />  
 
-错误
+<p> <font color="red">⬆️错误</font></p>
 
 ### 特性   
 
@@ -74,7 +74,7 @@
 
 ![](../images/6_9.png)   
 
-正确
+<p> <font color="green">⬆️正确</font></p>
 
 避免用浮动操作按钮进行下面这些轻微破坏性操作：
 - 存档或删除
@@ -87,27 +87,27 @@
 
 ![](../images/6_10.png)   
 
-错误
+<p> <font color="red">⬆️错误</font></p>
 
 APP 主要操作的图案强制使用圆形图标
 
 <img src="../images/6_11.png" alt="" width=240 height=171 />  
 
-正确
+<p> <font color="green">⬆️正确</font></p>
 
 <img src="../images/6_12.png" alt="" width=240 height=171 /> 
 
-错误
+<p> <font color="red">⬆️错误</font></p>
 
 不要给浮动操作按钮额外的维度。
 
 <img src="../images/6_13.png" alt="" width=240 height=171 />    
 
-正确
+<p> <font color="green">⬆️正确</font></p>
 
 <img src="../images/6_13.png" alt="" width=240 height=171 /> 
 
-错误
+<p> <font color="red">⬆️错误</font></p>
 
 
 ## 运行方式   
@@ -134,14 +134,14 @@ APP 主要操作的图案强制使用圆形图标
 <source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-behavior_03_xhdpi_001.mp4">
 </video>
 
-正确
+<p> <font color="green">⬆️正确</font></p>
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-behavior_04_xhdpi_009.mp4">
 </video>
 
 
-正确
+<p> <font color="green">⬆️正确</font></p>
 
 对于带有标签的屏幕，浮动操作按钮不应朝着屏幕退出时的同一方向退出屏幕。否则会导致视觉噪音。这也将导致在屏幕上出现一个失灵的浮动操作按钮。此外，它错误地暗示了浮动操作按钮与内容在相同的 Z 水平高度上，而不是在根水平高度中 UI 主元素所在的水平高度的上。
 
@@ -149,13 +149,13 @@ APP 主要操作的图案强制使用圆形图标
 <source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-behavior_05_xhdpi_009.mp4">
 </video>
 
-错误
+<p> <font color="red">⬆️错误</font></p>
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-behavior_06_xhdpi_009.mp4">
 </video>
 
-错误
+<p> <font color="red">⬆️错误</font></p>
 
 ## 过渡   
 
@@ -217,11 +217,11 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 
 ![](../images/6_15.png)   
 
-正确：在这个例子中，按钮可以让用户选择媒体类型来添加。
+<p> <font color="green">⬆️正确：在这个例子中，按钮可以让用户选择媒体类型来添加。</font></p>
 
 ![](../images/6_16.png)   
 
-错误：不要包括不相关或者混乱不清的操作。
+<p> <font color="red">⬆️错误：不要包括不相关或者混乱不清的操作。</font></p>
 
 ### 快速拨号   
 
@@ -361,30 +361,28 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 
 <img src="../images/6_29.png" alt="" width=380 height=285 /> 
 
-正确
+<p> <font color="green">⬆️正确</font></p>
 
 浮动操作按钮可以被附属到单页中的一个工具栏或者结构化元素（只要没有阻碍其他元素）。
 
 <img src="../images/6_30.png" alt="" width=380 height=285 />    
 
-正确
+<p> <font color="green">⬆️正确</font></p>
 
 浮动操作按钮可以被附属到一个单页的边缘。
 
 <img src="../images/6_31.png" alt="" width=380 height=285 />   
 
-正确
+<p> <font color="green">⬆️正确</font></p>
 
 单个屏幕上不要多与一个浮动操作按钮。
 
 <img src="../images/6_32.png" alt="" width=380 height=285 />   
 
-错误
+<p> <font color="red">⬆️错误</font></p>
 
 不要将浮动操作按钮与屏幕上的每个元素都联系起来。
 
 <img src="../images/6_33.png" alt="" width=380 height=285 />   
 
-错误
-
-
+<p> <font color="red">⬆️错误</font></p>

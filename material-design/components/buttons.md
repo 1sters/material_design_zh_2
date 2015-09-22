@@ -97,11 +97,13 @@
 ![p19](../images/components-buttons-usage-raised-dont_large_mdpi.png)
 
 ![p20](../images/components-buttons-usage-raised-1a_large_mdpi.png)  
-要  
+
+<p> <font color="green">⬆️正确</font></p>
 正确使用浮动按钮。  
 
 ![p21](../images/components-buttons-usage-raised-1b_large_mdpi.png)  
-不要  
+
+<p> <font color="red">⬆️错误</font></p>
 按钮不明显。  
 
 ### 扁平按钮
@@ -114,11 +116,13 @@
 
 
 ![p24](../images/components-buttons-usage-flat-do_large_mdpi.png)  
-要  
+
+<p> <font color="green">⬆️正确</font></p>
 正确使用扁平按钮。  
 
 ![p25](../images/components-buttons-usage-flat-dont_large_mdpi.png)  
-不要  
+
+<p> <font color="red">⬆️错误</font></p>
 层次感太重。  
 
 ### 扁平和浮动按钮的状态
@@ -134,20 +138,24 @@
 模拟按钮状态的时候， 可以使用图形轮换来表现动画。注意聚焦状态会一直处于动画的状态。 (下面这些图并没有显示出真实的聚焦状态。)
 
 ![p26](../images/components-buttons-states-for-mocks-1a_large_mdpi.png)  
+
 Flat Light/Light color  
 最小宽度: 88 dp， 高度: 36 dp  
 覆盖状态: 20% #999， 点击状态: 40% #999， 不可用状态: 10% #999  
 
 ![p27](../images/components-buttons-states-for-mocks-1b_large_mdpi.png)  
+
 Flat Dark/Dark Color  
 最小宽度: 88 dp， 高度: 36 dp  
 覆盖状态: 15% #ccc， 点击状态: 25% #ccc， 不可用状态: 10% #ccc  
 
 ![p28](../images/components-buttons-states-for-mocks-2a_large_mdpi.png)  
+
 Raised Light/Light Color  
 最小宽度: 88 dp， 高度: 36 dp  
 
 ![p29](../images/components-buttons-states-for-mocks-2b_large_mdpi.png)  
+
 Raised Dark/Dark Color  
 最小宽度: 88 dp， 高度: 36 do  
 正常状态: Color 500， 覆盖状态: Color 600， 点击状态: Color 700，

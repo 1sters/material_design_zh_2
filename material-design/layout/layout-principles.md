@@ -34,12 +34,14 @@ Material Design 使用的基本工具来源于印刷设计，例如通用于所�
 
 在工具栏左边和右边的操作不会被另一个页面分离。然而，工具栏的宽度被限制到小于页片的宽度。
 
-![](../images/papercraft-04_large_mdpi.png)  
-要  
+![](../images/papercraft-04_large_mdpi.png) 
+ 
+<p> <font color="green">⬆️正确</font></p>
 限制宽度要小于整个页片的宽度。    
 
 ![](../images/papercraft-04_dont_large_mdpi.png)  
-不要   
+
+<p> <font color="red">⬆️错误</font></p>  
 绝对不允许一个页面被另一个页面隔开。   
 
 工具栏经常的在别的页面上形成一个叠层用来显示与工具栏操作相关的内容。当页面工
