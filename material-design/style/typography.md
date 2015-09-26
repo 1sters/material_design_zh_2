@@ -114,10 +114,10 @@
 ### 换行规则/连字符（Line breaking rules / Hypenation）
 
 ![style-typography-33_large_mdpi](../images/style-typography-32_large_mdpi.png)     
-要   
+<p> <font color="green">⬆️正确</font></p> 
 
 |![](../images/style-typography-33_large_mdpi.png)   
-不要
+<p> <font color="red">⬆️错误</font></p>
 
 ### 每行长度包含的字符（Characters per line lengths）
 

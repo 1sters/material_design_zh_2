@@ -13,40 +13,48 @@ Android 也提供了一种主要用于提示系统消息的胶囊状的提示框
 通常 Snackbar 的高度应该仅仅用于容纳所有的文本，而文本应该与执行的操作相关。Snackbar 中不能包含图标，操作只能以文本的形式存在。
 
 ![](../images/components-toasts-usage-spec_toast_do_20_large_mdpi.png)  
-要
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/components-toasts-usage-spec_toast_dont_20_large_mdpi.png)  
-不要
+
+<p> <font color="red">⬆️错误</font></p>
 
 ### 暂时性
 
 为了保证可用性，Snackbar 不应该成为通往核心操作的唯一方式。作为在所有层的上方，Snackbar 不应该持续存在或相互堆叠。
 
 ![](../images/components-toasts-usage-spec_toast_do_22_large_mdpi.png)  
-要
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/components-toasts-usage-spec_toast_dont_22_large_mdpi.png)  
-不要
+
+<p> <font color="red">⬆️错误</font></p>
 
 ### 最多0-1个操作，不包含取消按钮
 
 当一个动作发生的时候，应当符合提示框和可用性规则。当有2个或者2个以上的操作出现时，应该使用提示框而不是 Snackbar，即使其中的一个是取消操作。如果 Snackbar 中提示的操作重要到需要打断屏幕上正在进行的操作，那么理当使用提示框而非 Snackbar。
 
 ![](../images/components-toasts-usage-spec_toast_do_24_large_mdpi.png)  
-要
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/components-toasts-usage-spec_toast_dont_24_large_mdpi.png)  
-不要
+
+<p> <font color="red">⬆️错误</font></p>
 
 ### 不要阻挡了浮动操作按钮
 
 垂直移动浮动操作按钮到 Snackbar 的上方。
 
 ![](../images/components-toasts-usage-spec_toast_do_26_large_mdpi.png)  
-要
+
+<p> <font color="green">⬆️正确</font></p>
 
 ![](../images/components-toasts-usage-spec_toast_dont_26_large_mdpi.png)  
-不要
+
+<p> <font color="red">⬆️错误</font></p>
 
 ## 规格
 
