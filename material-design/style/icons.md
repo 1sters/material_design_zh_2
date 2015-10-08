@@ -271,11 +271,11 @@ material 元素的上下两边提供一种深度感和表面感，元素还有 1
 
 ![颜色](../images/style_logos_product_patterns_color_do.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 ![颜色](../images/style_logos_product_patterns_color_dont.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 ####图层
 
@@ -283,11 +283,11 @@ material 元素的上下两边提供一种深度感和表面感，元素还有 1
 
 ![图层](../images/style_logos_product_patterns_layer_do.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 ![图层](../images/style_logos_product_patterns_layer_dont.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 #### 狗耳
 
@@ -295,11 +295,11 @@ material 元素的上下两边提供一种深度感和表面感，元素还有 1
 
 ![狗耳](../images/style_logos_product_patterns_dogear_do.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 ![狗耳](../images/style_logos_product_patterns_dogear_dont.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 #### 提升
 
@@ -307,11 +307,11 @@ material 元素的上下两边提供一种深度感和表面感，元素还有 1
 
 ![提升](../images/style_logos_product_patterns_elevate_do.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 ![提升](../images/style_logos_product_patterns_elevate_dont.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 #### 划线
 
@@ -319,11 +319,11 @@ material 元素的上下两边提供一种深度感和表面感，元素还有 1
 
 ![提升](../images/style_logos_product_patterns_score_do.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 ![提升](../images/style_logos_product_patterns_score_dont.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 #### 折叠
 
@@ -331,11 +331,11 @@ material 元素的上下两边提供一种深度感和表面感，元素还有 1
 
 ![折叠](../images/style_logos_product_patterns_fold_do.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 ![折叠](../images/style_logos_product_patterns_fold_dont.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 ####重叠
 
@@ -343,11 +343,11 @@ material 元素的上下两边提供一种深度感和表面感，元素还有 1
 
 ![重叠](../images/style_logos_product_patterns_overlap_do.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 ![重叠](../images/style_logos_product_patterns_overlap_dont.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 ####手风琴
 
@@ -355,11 +355,11 @@ material 元素的上下两边提供一种深度感和表面感，元素还有 1
 
 ![手风琴](../images/style_logos_product_patterns_accordian_do.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 ![手风琴](../images/style_logos_product_patterns_accordian_dont.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 #### 扭曲
 
@@ -367,11 +367,11 @@ material 元素的上下两边提供一种深度感和表面感，元素还有 1
 
 ![扭曲](../images/style_logos_product_patterns_distort_do.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 ![扭曲](../images/style_logos_product_patterns_distort_dont.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 ## 系统图标
 
@@ -563,68 +563,68 @@ material 元素的上下两边提供一种深度感和表面感，元素还有 1
 
 ![](../images/style_icons_system_best_do1.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 > 使用相同的画笔宽度以及方形的笔划末端。
 
 ![](../images/style_icons_system_best_dont1.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 > 不要使用不相同的画笔宽度以及非方形的笔划末端。
 
 ![](../images/style_icons_system_best_do2.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 > 让图标显得正面且坚定。
 
 ![](../images/style_icons_system_best_dont2.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 > 不要倾斜、旋转图标，或是让图标显得立体。
 
 ![](../images/style_icons_system_best_do3.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 > 简化图标使其更具清晰度和可读性。
 
 
 ![](../images/style_icons_system_best_dont3.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 > 不要过度拟物化使得图标复杂。
 
 ![](../images/style_icons_system_best_do4.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 > 让图标更加几何化而变得更加显眼。
 
 ![](../images/style_icons_system_best_dont4.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 > 不要过度精细，使用过细画笔宽度。
 
 ![](../images/style_icons_system_best_do5.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 > 使用一致的几何形状。
 
 ![](../images/style_icons_system_best_dont5.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 > 不要使用过于松散的形状。
 
 ![](../images/style_icons_system_best_do6.png)
 
-> <p> <font color="green">⬆️正确</font></p>
+> <p> <font color="green">(上图)可取</font></p>
 
 > 让图标在像素点上（X、Y 坐标值不包含小数）。
 
@@ -633,7 +633,7 @@ material 元素的上下两边提供一种深度感和表面感，元素还有 1
 
 ![](../images/style_icons_system_best_dont6.png)
 
-> <p> <font color="red">⬆️错误</font></p>
+> <p> <font color="red">(上图)不可取</font></p>
 
 > 图标不在像素点上。
 

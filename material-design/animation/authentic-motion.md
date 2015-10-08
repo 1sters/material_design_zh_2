@@ -17,13 +17,13 @@
 </video>
 
 
-<p> <font color="green">⬆️正确：迅速的加速和平滑的减速会感到自然和愉快</font></p>
+<p> <font color="green">(上图)可取：迅速的加速和平滑的减速会感到自然和愉快</font></p>
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/animation-authenticmotion-massandweight-do.mp4">
 </video>
 
-<p> <font color="red">⬆️错误：线性动作会感到机械，在结束和开始的时候生硬的速度变化意味着物体突然开始运动或停止，这是不贴合现实的。</font></p>
+<p> <font color="red">(上图)不可取：线性动作会感到机械，在结束和开始的时候生硬的速度变化意味着物体突然开始运动或停止，这是不贴合现实的。</font></p>
 
 
 #### 特殊情况：进入和退出的场景
@@ -34,13 +34,13 @@
 <source src="http://materialdesign.qiniudn.com/videos/animation-authenticmotion-massandweight-linear.mp4">
 </video>
 
-<p> <font color="green">⬆️正确：小球在最大的速度下进入和退出场景，创造了一个确信的过渡效果。</font></p>
+<p> <font color="green">(上图)可取：小球在最大的速度下进入和退出场景，创造了一个确信的过渡效果。</font></p>
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/animation-authenticmotion-massandweight-dont.mp4">
 </video>
 
-<p> <font color="red">⬆️错误：快速进入和缓慢离开，不要让用户因速度变化转移注意力。</font></p>
+<p> <font color="red">(上图)不可取：快速进入和缓慢离开，不要让用户因速度变化转移注意力。</font></p>
 
 ### 需要做的调整（Making adjustments）
 
