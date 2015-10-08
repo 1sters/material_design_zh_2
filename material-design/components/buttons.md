@@ -98,12 +98,12 @@
 
 ![p20](../images/components-buttons-usage-raised-1a_large_mdpi.png)  
 
-<p> <font color="green">⬆️正确</font></p>
+<p> <font color="green">上图可取</font></p>
 正确使用浮动按钮。  
 
 ![p21](../images/components-buttons-usage-raised-1b_large_mdpi.png)  
 
-<p> <font color="red">⬆️错误</font></p>
+<p> <font color="red">上图不可取</font></p>
 按钮不明显。  
 
 ### 扁平按钮
@@ -117,12 +117,12 @@
 
 ![p24](../images/components-buttons-usage-flat-do_large_mdpi.png)  
 
-<p> <font color="green">⬆️正确</font></p>
+<p> <font color="green">上图可取</font></p>
 正确使用扁平按钮。  
 
 ![p25](../images/components-buttons-usage-flat-dont_large_mdpi.png)  
 
-<p> <font color="red">⬆️错误</font></p>
+<p> <font color="red">上图不可取</font></p>
 层次感太重。  
 
 ### 扁平和浮动按钮的状态
