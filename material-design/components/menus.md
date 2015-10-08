@@ -88,29 +88,29 @@
 
 ![](../images/components-menus-behavior-menus-p-01_large_mdpi.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 ![](../images/components-menus-behavior-menus-p-02_large_mdpi.png)  
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 菜单不要与触摸的位置水平对齐。
 
 ![](../images/components-menus-behavior-menus-p-03a_large_mdpi.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 ![](../images/components-menus-behavior-menus-p-03b_large_mdpi.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 ![](../images/components-menus-behavior-menus-p-04a_large_mdpi.png)  
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 ![](../images/components-menus-behavior-menus-p-04b_large_mdpi.png) 
  
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 ## 尺寸标准
 

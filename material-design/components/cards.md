@@ -7,7 +7,7 @@
 卡片是用来显示由不同种类对象组成的内容的便捷途径。它们也适用于展示尺寸或操作相当不同的相似对象，像带有不同长度标题的照片。
 
 **注意：**即使外观相近，Now 卡片是卡片的一个带有唯一表现和格式要求的独特子集。
-
+∂ƒ
 ![](../images/components-cards-usage-card_single_large_mdpi.png)  
 
 **卡片集**是**卡片**的一个平面布局。
@@ -31,7 +31,7 @@
 
 ![](../images/components-cards-usage-cardvstilea_large_mdpi.png)     
   
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 1. 卡片带圆角。    
 2. 卡片带多种操作。   
@@ -39,7 +39,7 @@
 
 ![](../images/components-cards-usage-cardvstileb_large_mdpi.png)     
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 这是瓷砖，不是卡片。    
 1. 瓷砖带直角。    
@@ -47,25 +47,25 @@
 
 ![](../images/components-cards-usage-card_noa_large_mdpi.png)     
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 可快速扫描的列表，用来代替卡片，是表现没有许多操作的同类内容的合适方法。
 
 ![](../images/components-cards-usage-card_nob_large_mdpi.png)     
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 这里卡片的使用分散了用户注意力，不能快速扫描。这些列表项也不能忽略，所以把它们放在不同的卡片上是难以理解的。
 
 ![](../images/components-cards-usage-card_no2a_large_mdpi.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 网格瓷砖是表现图片库的干净轻量的方法。
 
 ![](../images/components-cards-usage-card_no2b_large_mdpi.png)  
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 卡片在图片库中没有必要（同类内容）。
 

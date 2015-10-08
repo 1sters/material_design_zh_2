@@ -36,11 +36,11 @@
 
 ![](../images/14_5.png)
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 ![](../images/14_6.png)
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 ### 持续时间   
 

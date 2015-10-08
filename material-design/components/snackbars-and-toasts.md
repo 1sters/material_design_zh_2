@@ -14,11 +14,11 @@ Android 也提供了一种主要用于提示系统消息的胶囊状的提示框
 
 ![](../images/components-toasts-usage-spec_toast_do_20_large_mdpi.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 ![](../images/components-toasts-usage-spec_toast_dont_20_large_mdpi.png)  
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 ### 暂时性
 
@@ -26,11 +26,11 @@ Android 也提供了一种主要用于提示系统消息的胶囊状的提示框
 
 ![](../images/components-toasts-usage-spec_toast_do_22_large_mdpi.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 ![](../images/components-toasts-usage-spec_toast_dont_22_large_mdpi.png)  
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 ### 最多0-1个操作，不包含取消按钮
 
@@ -38,11 +38,11 @@ Android 也提供了一种主要用于提示系统消息的胶囊状的提示框
 
 ![](../images/components-toasts-usage-spec_toast_do_24_large_mdpi.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 ![](../images/components-toasts-usage-spec_toast_dont_24_large_mdpi.png)  
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 ### 不要阻挡了浮动操作按钮
 
@@ -50,11 +50,11 @@ Android 也提供了一种主要用于提示系统消息的胶囊状的提示框
 
 ![](../images/components-toasts-usage-spec_toast_do_26_large_mdpi.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 ![](../images/components-toasts-usage-spec_toast_dont_26_large_mdpi.png)  
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 ## 规格
 

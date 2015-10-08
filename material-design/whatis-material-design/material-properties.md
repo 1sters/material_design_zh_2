@@ -9,13 +9,13 @@
 
 ![正确：Material 的高度和宽度都可以变化。](../images/2.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 材料的高度和宽度是可变的。
 
 ![错误：Material 总是 1 dp 厚。](../images/3.png)
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 材料总是 1dp 厚。
 
@@ -27,7 +27,7 @@
 <source src="http://materialdesign.qiniudn.com/videos/inline%20whatismaterial-materialprop-physicalprop-PaperShadow_01_xhdpi_008.mp4">
 </video>
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 阴影描述材料元件之间的相对高度。
 
@@ -35,7 +35,7 @@
 <source src="http://materialdesign.qiniudn.com/videos/inline%20whatismaterial-materialprop-physicalprop-PaperShadow_02_xhdpi_008.mp4">
 </video>
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 阴影随着材料高度的变化而产生变化。
 
@@ -47,7 +47,7 @@
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-physicalprop-InkDisplay_xhdpi_006.mp4">
 </video>
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 材料能展示任何形状和颜色。
 
@@ -57,7 +57,7 @@
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-physicalprop-InkBehavior_xhdpi_006.mp4">
 </video>
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 内容的行为能独立于材料的行为。
 
@@ -67,13 +67,13 @@
 
 ![正确说法：输入事件只影响 material 的前景。](../images/4.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 输入事件只影响材料的前景。
 
 ![错误说法：输入事件不能通过 material。](../images/5.png)  
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 输入事件不能从材料下面穿过。
 
@@ -82,13 +82,13 @@
 
 ![正确说法：利用高度来区分material元素，是防止多个 material 元素同时占据空间中同一个点的一种方法。](../images/6.png) 
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 利用不同的高度区分材料元件是防止多个材料元件同时占用相同空间点的一个方法。
 
 ![错误说法：多个material元素不能同时占据空间中的同一个点。](../images/7.png)  
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 多个材料元件不能同时占用相同的空间点。
 
@@ -100,7 +100,7 @@
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial_properties_physical_07_xhdpi_009.mp4">
 </video>
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 材料不能穿过其他材料。
 
@@ -118,7 +118,7 @@
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-transformingmaterial-PaperShapeLinear_xhdpi_005.mp4">
 </video>
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 材料仅沿着它的水平面增长和收缩。
 
@@ -128,7 +128,7 @@
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-transformingmaterial-PaperBendFold_xhdpi_006.mp4">
 </video>
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 材料决不能弯曲或折叠。
 

@@ -55,11 +55,11 @@ Tabs 也不是用于内容切换或是内容分页的（例如：应用中页面
 
 ![](../images/components-tabs-usage-tabs_do_10_large_mdpi.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 ![](../images/components-tabs-usage-tabs_dont_10_large_mdpi.png)  
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 ### Tab 特性
 
@@ -79,19 +79,19 @@ Tabs 应该归类并且每组 tabs 中内容顺序相连。
 
 ![](../images/components-tabs-usage-tabs_do_06_large_mdpi.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 ![](../images/components-tabs-usage-tabs_dont_06_large_mdpi.png)  
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 ![](../images/components-tabs-usage-tabs_do_08_large_mdpi.png)  
 
-<p> <font color="green">上图可取</font></p>
+<p> <font color="green">(上图)可取</font></p>
 
 ![](../images/components-tabs-usage-tabs_dont_08_large_mdpi.png)  
 
-<p> <font color="red">上图不可取</font></p>
+<p> <font color="red">(上图)不可取</font></p>
 
 
 ## 内容
