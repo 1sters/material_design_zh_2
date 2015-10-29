@@ -12,7 +12,7 @@
 ![Dark theme](../images/components-sliders-sliders-sliders_spec_09_large_mdpi.png)  
 暗色主题
 
-<video crossorigin="anonymous"  loop  controls width="370" height="301">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/components-sliders-continuous_large_xhdpi.webm" type="video/webm">
 </video>
 
@@ -44,7 +44,7 @@
 ![Dark theme](../images/components-sliders-discreteslider-sliders_precise_06_large_mdpi.png)  
 暗色主题
 
-<video crossorigin="anonymous"  loop  controls width="360" height="305">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/components-sliders-discrete_large_xhdpi.webm" type="video/webm">
 </video>
 

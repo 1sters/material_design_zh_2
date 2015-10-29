@@ -33,7 +33,7 @@
 
 用上面图中画出的三个维度（透明度、对比度和饱和度）的比例来满足你载入和过渡时的需求。建议载入时变换的持续时间长一些，过渡时变换时间短一些。     
 
-<video crossorigin="anonymous"  loop  controls width="720" height="720">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
  <source src="http://materialdesign.qiniudn.com/videos/patterns-imagerytreatment-load-transition_large_xhdpi.webm" type="video/webm">
 </video>     
 
@@ -41,7 +41,7 @@
 
 这个过程在大屏幕上是最理想的，就像这个载入 Chrome 操作系统的壁纸的例子。      
  
-<video crossorigin="anonymous"  loop  controls width="1120" height="743">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/patterns-imagerytreatment-load-transition-desktop_large_xhdpi.webm" type="video/webm">
 </video> 
  
@@ -49,7 +49,7 @@
 
 在图片的顶部添加一小段位移来处理一些案例，例如账号切换。
      
-<video crossorigin="anonymous"  loop  controls width="720" height="720">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/patterns-imagerytreatment-adding-animation_large_xhdpi.webm" type="video/webm">
 </video>
 

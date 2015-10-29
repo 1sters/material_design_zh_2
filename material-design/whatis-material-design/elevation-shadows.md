@@ -224,13 +224,13 @@ Material design 中的对象与现实生活中的对象具有相似的性质。�
 
 你会如何确定某些对象的高度（即它们在 Z 空间的位置）取决于你想描述的内容层次以及某一个对象是否需要相对于其他对象自主移动。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="350">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/WhatIsMaterial_ObjectsIn3DSpace_ObjectRelationships_01_RaisedChildButton_001.mp4">
 </video>
 
 随着父表的移动，升高的按钮（它的子元素）会伴随着它移出屏幕。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="350">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/WhatIsMaterial_ObjectsIn3DSpace_ObjectRelationships_02_FAB_001.mp4">
 </video>   
 
