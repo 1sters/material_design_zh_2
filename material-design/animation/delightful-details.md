@@ -7,11 +7,11 @@
 
 细节动画的演示：
 
-<video crossorigin="anonymous" loop controls width="360" height="285">
+<video crossorigin="anonymous" loop controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/DelightfulDetails_WellCrafted_v01_large_xhdpi.webm" type="video/webm">
 </video>
 
-<video crossorigin="anonymous" loop controls width="360" height="285">
+<video crossorigin="anonymous" loop controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/animation-delightfulDetails-statusChange-example_large_xhdpi.webm" type="video/webm">
 </video>
 

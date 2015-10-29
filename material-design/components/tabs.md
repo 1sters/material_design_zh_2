@@ -167,7 +167,7 @@ Tab 标签可能是图标或者文字并且不能省略。
 
 ### 按下 tab 时的动画
 
-<video crossorigin="anonymous" loop controls width="456" height="115">
+<video crossorigin="anonymous" loop controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/components-tabs-spec-tabtouch-example_large_xhdpi.webm" type="video/webm">
 </video>
 

@@ -23,7 +23,7 @@
 
 阴影是由于材料元件之间的相对高度（Z 轴位置）而自然产生的。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="360">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/inline%20whatismaterial-materialprop-physicalprop-PaperShadow_01_xhdpi_008.mp4">
 </video>
 
@@ -31,7 +31,7 @@
 
 阴影描述材料元件之间的相对高度。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="360">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/inline%20whatismaterial-materialprop-physicalprop-PaperShadow_02_xhdpi_008.mp4">
 </video>
 
@@ -43,7 +43,7 @@
 
 内容并不会增加材料的厚度。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="360">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-physicalprop-InkDisplay_xhdpi_006.mp4">
 </video>
 
@@ -53,7 +53,7 @@
 
 内容的展示能够独立于材料,但要被限制在材料的范围里。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="360">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-physicalprop-InkBehavior_xhdpi_006.mp4">
 </video>
 
@@ -96,7 +96,7 @@
 
 例如，一片材料不能在改变高度时穿过另一片材料。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="360">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial_properties_physical_07_xhdpi_009.mp4">
 </video>
 
@@ -108,13 +108,13 @@
 
 材料能改变形状。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="360">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-transformingmaterial-PaperShape_xhdpi_005.mp4">
 </video>
 
 材料能改变形状。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="360">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-transformingmaterial-PaperShapeLinear_xhdpi_005.mp4">
 </video>
 
@@ -124,7 +124,7 @@
 
 材料决不能弯曲或折叠。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="480">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-transformingmaterial-PaperBendFold_xhdpi_006.mp4">
 </video>
 
@@ -134,7 +134,7 @@
 
 几片材料能合在一起组成一片材料。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="480">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-transformingmaterial-PaperHeal_xhdpi_004.mp4">
 </video>
 
@@ -142,7 +142,7 @@
 
 当材料被割开时，它还能自己复原。例如，你从一片材料中移除了一部分，这一片材料将再次变为一块完整的材料。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="480">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-transformingmaterial-PaperSplitHeal_xhdpi_005.mp4">
 </video>
 
@@ -152,7 +152,7 @@
 
 材料能在环境中的任何地方自动产生或消失。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="480">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-movementmaterial-PaperPointExpand_xhdpi_005.mp4">
 </video>
 
@@ -160,7 +160,7 @@
 
 材料能沿任何轴移动。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="480">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-movementmaterial-PaperMove_xhdpi_008.mp4">
 </video>
 
@@ -168,7 +168,7 @@
 
 Z轴产生运动一般都是用户与材料交互而产生的。
 
-<video crossorigin="anonymous"  loop  controls width="760" height="350">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/whatismaterial-materialprop-movementmaterial-Material_Response_xhdpi_003.mp4">
 </video>
 

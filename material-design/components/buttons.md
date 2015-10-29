@@ -163,13 +163,13 @@ Raised Dark/Dark Color
 
 ### 按钮动态效果
 
-<video crossorigin="anonymous"  loop  controls width="760" height="350">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/components-buttons-flatbuttons.mp4">
 </video>
 
 扁平按钮  
 
-<video crossorigin="anonymous"  loop  controls width="760" height="350">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/components-buttons-raisedbuttons.mp4">
 </video>
 
@@ -213,7 +213,7 @@ Raised Dark/Dark Color
 
 ![p35](../images/components-buttons-mobile-dropdowns-3_large_mdpi.png)
 
-<video crossorigin="anonymous"  loop  controls width="760" height="350">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/components-buttons-otherbuttons-060203_MobileDropdowns_xhdpi_006.mp4">
 </video> 
 

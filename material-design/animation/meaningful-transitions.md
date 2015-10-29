@@ -8,13 +8,13 @@
 
 示例 1：   
 
-<video crossorigin="anonymous"  loop  controls width="622" height="360">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/animations-meaningfultransitions-hierarchical_transitions_topLevel_large_xhdpi.webm" type="video/webm">
 </video>   
 
 示例 2：    
 
-<video crossorigin="anonymous"  loop  controls width="622" height="360">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/animation-meaningfultransitions-view_contact_large_xhdpi.webm" type="video/webm">
 </video>
 
@@ -36,13 +36,13 @@
 
 ### 示例
 
-<video crossorigin="anonymous"  loop  controls width="622" height="360">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/meaningfultransitions-visualcontinuity2_large_xhdpi.webm" type="video/webm">
 </video>  
 <p> <font color="green">(上图)可取</font></p> 
 恰当的时候使用纸片叠加方式。一般情况下，新入的纸片元素应当滑入视线。但字体元素(ink element)除外，他们应该以淡入的方式出现。不提倡全屏的淡入淡出，但也比瞬间切屏要好。  
 
-<video crossorigin="anonymous"  loop  controls width="622" height="360">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/meaningfultransitions-visualcontinuity1_large_xhdpi.webm" type="video/webm">
 </video>  
 <p> <font color="red">(上图)不可取</font></p>  
@@ -56,13 +56,13 @@
 
 ### 示例
 
-<video crossorigin="anonymous"  loop  controls width="255" height="150">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/animation-meaningfultransitions-hierarchicaltiming4do_large_xhdpi.webm" type="video/webm">
 </video>  
 <p> <font color="green">(上图)可取</font></p> 
 用递次的动画引导用户注意力。  
 
-<video crossorigin="anonymous"  loop  controls width="255" height="150">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/animation-meaningfultransitions-hierarchicaltiming1dont_large_xhdpi.webm" type="video/webm">
 </video>  
 <p> <font color="red">(上图)不可取</font></p>  
@@ -84,11 +84,11 @@
 
 ###  示例
 
-<video crossorigin="anonymous"  loop  controls width="360" height="422">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/meaningfultransitions-consistentchoreography_do1_large_xhdpi.webm" type="video/webm">
 </video>  
 
-<video crossorigin="anonymous"  loop  controls width="360" height="422">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/meaningfultransitions-consistentchoreography_dont3_large_xhdpi.webm" type="video/webm">
 </video>  
 

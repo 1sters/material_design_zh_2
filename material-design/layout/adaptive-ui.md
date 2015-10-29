@@ -38,7 +38,7 @@ Material Design 中的响应式布局适用于任何尺寸的屏幕。自适应 
 Material design 的自适应 UI 是基于一个 12 列的栏栅布局。这个栏栅提供了不同布局之间的视觉一致性，而又保持了多样化设计的灵活性。栏栅列的数量基于系统断点而变化。
 
 
-<video crossorigin="anonymous"  loop  controls width="760" height="350">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/layout_adaptiveUI_grid_01_hero.mp4">
 </video>
 
@@ -50,7 +50,7 @@ Material design 的自适应 UI 是基于一个 12 列的栏栅布局。这个�
 
 外边距与间隔没必要相等。例如，在同一个布局中使用 40 dp 的外边距和 24 dp 的间隔是完全可取的。
 
-<video crossorigin="anonymous"  loop  controls width="760" height=“512”>
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/layout_adaptiveUI_grid_02_margins.mp4">
 </video>
 
@@ -68,7 +68,7 @@ Material design 的自适应 UI 是基于一个 12 列的栏栅布局。这个�
 
 居中栏栅使用固定列，当所有列（加上一个固定的外边距）不再适应屏幕，将会重绘布局。
 
-<video crossorigin="anonymous"  loop  controls width="760" height=“512”>
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/layout_adaptiveUI_grid_03_width.mp4">
 </video>   
 
@@ -83,7 +83,7 @@ Material design 的自适应 UI 是基于一个 12 列的栏栅布局。这个�
 
 一个永久的面板存在于自适应栏栅的外面。面板以一个固定的断点显示（当屏幕可以容纳面板）并且排布内容。不存在显示、隐藏面板的控制。
 
-<video crossorigin="anonymous"  loop  controls width="760" height=“512”>
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/layout_adaptiveUI_grid_04_behaviorPermanent.mp4">
 </video> 
 
@@ -96,7 +96,7 @@ Material design 的自适应 UI 是基于一个 12 列的栏栅布局。这个�
 1. 一个永久侧边面板出现，挤压内容和栏栅。当面板保持可视时，内容是可获取的。切换时面板隐藏。
 2. 一个临时侧边面板出现，加栏栅内容推出屏幕。点击面板外面，或者面板内的一个条目，隐藏面板。
 
-<video crossorigin="anonymous"  loop  controls width="760" height=“512”>
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/layout_adaptiveUI_grid_05_behaviorSqueezePush.mp4">
 </video> 
 
@@ -107,7 +107,7 @@ Material design 的自适应 UI 是基于一个 12 列的栏栅布局。这个�
 
 临时面板在不显示时，不会影响栏栅和内容。当被切换到可视时，可以通过点击面板之外的任何地方或者面板内的一个条目来隐藏面板。
 
-<video crossorigin="anonymous"  loop  controls width="760" height=“512”>
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/layout_adaptiveUI_grid_06_behaviorOverlay.mp4">
 </video> 
 

@@ -69,7 +69,7 @@ Android 也提供了一种主要用于提示系统消息的胶囊状的提示框
 ![](../images/components-toasts-specs-spec_toast_03_1_large_mdpi.png)
 ![](../images/components-toasts-specs-spec_toast_03_2_large_mdpi.png)
 
-<video crossorigin="anonymous" loop controls width="760" height="350">
+<video crossorigin="anonymous" loop controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/components-snackbars-and-toasts-specs-snackbar.single.line-dismissal_large_xhdpi.webm" type="video/webm">
 </video>
 
@@ -91,7 +91,7 @@ Android 也提供了一种主要用于提示系统消息的胶囊状的提示框
 
 ![](../images/components-toasts-specs-spec_toast_12_large_mdpi.png)
 
-<video crossorigin="anonymous" loop controls>
+<video crossorigin="anonymous" loop controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/videos/components-snackbars-and-toasts-specs-snackbar.tablet-time.out_large_xhdpi.webm" type="video/webm">
 </video>
 

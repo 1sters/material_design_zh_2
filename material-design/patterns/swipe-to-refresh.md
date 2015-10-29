@@ -24,7 +24,7 @@
 > 通过一个垂直方向的滑动手势刷新视图的内容。
 
 
-<video crossorigin="anonymous"  loop  controls width="360" height="640">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRWlsOUFOeG96RnM/components-progressactivity-behavior_Loading_SwipeDown_noload_xhdpi_005.webm">
 </video>
 
@@ -90,7 +90,7 @@ Pannable内容，像地图，没有一个主要的方向或者内容起点，用
 
 刷新图标保持可见，直到刷新活动完成，并且任何新内容是可见的，或者用户从刷新内容导航出去。
 
-<video crossorigin="anonymous"  loop  controls width="360" height="640">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsUkpNWUx6NFI4clE/patterns-swipetorefresh-behavior_do_xhdpi_009.webm">
 </video>
 
@@ -98,7 +98,7 @@ Pannable内容，像地图，没有一个主要的方向或者内容起点，用
 
 保持刷新图标在视图上直到活动完成，并且反馈刷新后的状态。
 
-<video crossorigin="anonymous"  loop  controls width="360" height="640">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsQ295RkQ0ZWFzMms/patterns-swipetorefresh-behavior_dont_xhdpi_009.webm">
 </video>   
 
@@ -115,25 +115,25 @@ Pannable内容，像地图，没有一个主要的方向或者内容起点，用
 * 刷新 material 是在所有其他界面的前面（在z-space）
 * 内容刷新开始从 app bar 或者菜单扩展操作。
 
-<video crossorigin="anonymous"  loop  controls width="360" height="171">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.compublish/material_v_4/material_ext_publish/0B6Okdz75tqQsTXlhUU5FT2JzX0U/patterns-swipetorefresh-zspace_refresh_xhdpi_007.webm">
 </video>
 
 刷新内容是在所有其他界面之上，在 z－space 空间。  
 
-<video crossorigin="anonymous"  loop  controls width="360" height="640">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsZHZ1OUJOUFR1ZmM/patterns-swipetorefresh-coplanar_refresh_xhdpi_008.webm">
 </video>
 
 刷新内容是另一个界面在同一个面上。   
 
-<video crossorigin="anonymous"  loop  controls width="360" height="640">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsVU56bGR1cjZMU1k/patterns-swipetorefresh-zspace_refresh_mobile_xhdpi_002.webm">
 </video>
 
 刷新内容是在z－space里另一个界面之下。   
 
-<video crossorigin="anonymous"  loop  controls width="360" height="640">
+<video crossorigin="anonymous"  loop  controls width="740" height="350">
 <source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDZOV1NmRlBVZjQ/patterns_swipetorefresh-appbar_refresh_xhdpi_007.webm">
 </video>
 
