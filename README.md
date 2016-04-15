@@ -93,3 +93,5 @@ Google I/O 2014 发布 [Material Design](http://www.google.com/design/spec/mater
 需要说明的是文章中引用的大量的视频由于视频长度及排版技术原因暂时无法在离线文档中查看，我们对此带来的不便深感抱歉。   
 
 需要观看视频的同学可通过网页版查看。
+
+>填问卷调查，享独家秘笈：大话gradle，让生活更美好。
