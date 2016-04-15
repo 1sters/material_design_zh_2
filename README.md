@@ -94,4 +94,5 @@ Google I/O 2014 发布 [Material Design](http://www.google.com/design/spec/mater
 
 需要观看视频的同学可通过网页版查看。
 
->填问卷调查，享独家秘笈：大话gradle，让生活更美好。
+>填问卷调查，享独家秘笈：大话Gradle，让生活更美好。
+>地址：http://jikexueyuan.mikecrm.com/dvqzR3
