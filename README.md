@@ -25,6 +25,22 @@ Google I/O 2014 发布 [Material Design](http://www.google.com/design/spec/mater
 > 中文版第一版 GitHub 仓库：   
 > <https://github.com/1sters/material_design_zh>  
 
+## 公开课   
+
+
+![image](material-design/images/survey.jpg)
+
+>公开课时间： 2016.4.18 下午15:00    
+>公开课标题：《让你更关注工作的Gradle》   
+>公开课报名地址：[http://jikexueyuan.mikecrm.com/dvqzR3](http://jikexueyuan.mikecrm.com/dvqzR3)
+>报名福利：   
+ 1. 10门精品Android课程讲义PPT及源码   
+ 2. 5门精品Wiki PDF电子书  
+ 3. 金牌布道师推荐的Android学习书单   
+ 4. 随机选取20名同学发送极客学院30天VIP F码到手机
+
+
+
 ## 参与者（按认领章节排序）
 
 ### 翻译
@@ -94,10 +110,3 @@ Google I/O 2014 发布 [Material Design](http://www.google.com/design/spec/mater
 
 需要观看视频的同学可通过网页版查看。
 
-## 公开课   
-
-
-![image](material-design/images/survey.jpg)
-
->填问卷调查，享独家秘笈：大话Gradle，让生活更美好。
->地址：http://jikexueyuan.mikecrm.com/dvqzR3
