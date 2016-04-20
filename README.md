@@ -27,14 +27,15 @@ Google I/O 2014 发布 [Material Design](http://www.google.com/design/spec/mater
 
 ## 测评必送豪礼   
 
-![image](../images/banner.jpg)
+![image](http://chuantu.biz/t3/18/1461143320x3738746529.jpg)
 
 >活动时间： 2016.4.20～？    
 >测评地址：[http://jikexueyuan.mikecrm.com/oaAsJv](http://jikexueyuan.mikecrm.com/oaAsJv)   
 >报名福利：   
  1. 40门精品课程讲义PPT及源码   
  2. 30门精品Wiki PDF电子书  
- 3. 金牌布道师推荐的学习书单（涵盖多个领域）   
+ 3. 金牌布道师推荐的学习书单（涵盖多个领域）
+ 4. 随机选取20名同学发送极客学院30天VIP F码到手机   
 
 ## 参与者（按认领章节排序）
 
