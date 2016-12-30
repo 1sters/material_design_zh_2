@@ -39,7 +39,7 @@ Material design 的自适应 UI 是基于一个 12 列的栏栅布局。这个�
 
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/layout_adaptiveUI_grid_01_hero.mp4">
+<source src="http://materialdesign.eoemobile.com/layout_adaptiveUI_grid_01_hero.mp4">
 </video>
 
 这个动画效果展示了不同平面和面板是如何排列在一起从而影响上述 12 列栏栅的。
@@ -51,7 +51,7 @@ Material design 的自适应 UI 是基于一个 12 列的栏栅布局。这个�
 外边距与间隔没必要相等。例如，在同一个布局中使用 40 dp 的外边距和 24 dp 的间隔是完全可取的。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/layout_adaptiveUI_grid_02_margins.mp4">
+<source src="http://materialdesign.eoemobile.com/layout_adaptiveUI_grid_02_margins.mp4">
 </video>
 
 这个动画显示了下面这些宽度的外边距和间隔的不同搭配：
@@ -69,7 +69,7 @@ Material design 的自适应 UI 是基于一个 12 列的栏栅布局。这个�
 居中栏栅使用固定列，当所有列（加上一个固定的外边距）不再适应屏幕，将会重绘布局。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/layout_adaptiveUI_grid_03_width.mp4">
+<source src="http://materialdesign.eoemobile.com/layout_adaptiveUI_grid_03_width.mp4">
 </video>   
 
 1. 完全宽度栏栅
@@ -84,8 +84,8 @@ Material design 的自适应 UI 是基于一个 12 列的栏栅布局。这个�
 一个永久的面板存在于自适应栏栅的外面。面板以一个固定的断点显示（当屏幕可以容纳面板）并且排布内容。不存在显示、隐藏面板的控制。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/layout_adaptiveUI_grid_04_behaviorPermanent.mp4">
-</video> 
+<source src="http://materialdesign.eoemobile.com/layout_adaptiveUI_grid_04_behaviorPermanent.mp4">
+</video>
 
 一个永久面板对于自适应栏栅的影响。
 
@@ -97,8 +97,8 @@ Material design 的自适应 UI 是基于一个 12 列的栏栅布局。这个�
 2. 一个临时侧边面板出现，加栏栅内容推出屏幕。点击面板外面，或者面板内的一个条目，隐藏面板。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/layout_adaptiveUI_grid_05_behaviorSqueezePush.mp4">
-</video> 
+<source src="http://materialdesign.eoemobile.com/layout_adaptiveUI_grid_05_behaviorSqueezePush.mp4">
+</video>
 
 一个持续面板对自适应栏栅的影响。
 
@@ -108,8 +108,8 @@ Material design 的自适应 UI 是基于一个 12 列的栏栅布局。这个�
 临时面板在不显示时，不会影响栏栅和内容。当被切换到可视时，可以通过点击面板之外的任何地方或者面板内的一个条目来隐藏面板。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/layout_adaptiveUI_grid_06_behaviorOverlay.mp4">
-</video> 
+<source src="http://materialdesign.eoemobile.com/layout_adaptiveUI_grid_06_behaviorOverlay.mp4">
+</video>
 
 临时面板对自适应栏栅的影响。
 
@@ -162,5 +162,3 @@ UI 可以从一种形式转换为另一种。
 
 ![](../images/5_11.png)
 内容卡片可以扩展以占据更多的水平空间。
-
-

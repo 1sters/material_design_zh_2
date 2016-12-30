@@ -24,7 +24,7 @@ tab 用来显示有关联的分组内容。tab标签用来简要的描述内容�
 和 tab 指示器一样的字体颜色
 
 ![](../images/components-tabs-usage-tabs-spec-17_large_mdpi.png)  
-被锁定滚动的 tab bar 
+被锁定滚动的 tab bar
 
 ### 桌面环境的 tabs
 
@@ -125,7 +125,7 @@ Tab 标签可能是图标或者文字并且不能省略。
 ### 滚动的 tabs
 
 滚动的 tabs 用于显示 tabs 的子集，可以在任何时候使用，并且可以包含更长的 tab 标签和更多的 tabs 数量，最适合用于触摸操作的浏览环境并且用户不需要直接比较 tab 标签。
- 
+
 可以通过点击 tab 、在 tab 上左右滑动或者在内容区域中左右滑动来在滚动的 tabs 间进行导航。
 
 ![](../images/components-tabs-usage-tabs-spec-12_large_mdpi.png)
@@ -168,7 +168,7 @@ Tab 标签可能是图标或者文字并且不能省略。
 ### 按下 tab 时的动画
 
 <video crossorigin="anonymous" loop controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-tabs-spec-tabtouch-example_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/components-tabs-spec-tabtouch-example_large_xhdpi.webm" type="video/webm">
 </video>
 
 > 原文：[Tabs](http://www.google.com/design/spec/components/tabs.html)  翻译：[vincent4j](https://github.com/vincent4j)  校对：[PoppinLp](https://github.com/poppinlp)

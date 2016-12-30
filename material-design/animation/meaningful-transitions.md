@@ -9,13 +9,13 @@
 示例 1：   
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animations-meaningfultransitions-hierarchical_transitions_topLevel_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/animations-meaningfultransitions-hierarchical_transitions_topLevel_large_xhdpi.webm" type="video/webm">
 </video>   
 
 示例 2：    
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-meaningfultransitions-view_contact_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/animation-meaningfultransitions-view_contact_large_xhdpi.webm" type="video/webm">
 </video>
 
 ## 视觉连贯性
@@ -37,13 +37,13 @@
 ### 示例
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/meaningfultransitions-visualcontinuity2_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/meaningfultransitions-visualcontinuity2_large_xhdpi.webm" type="video/webm">
 </video>  
-<p> <font color="green">(上图)可取</font></p> 
+<p> <font color="green">(上图)可取</font></p>
 恰当的时候使用纸片叠加方式。一般情况下，新入的纸片元素应当滑入视线。但字体元素(ink element)除外，他们应该以淡入的方式出现。不提倡全屏的淡入淡出，但也比瞬间切屏要好。  
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/meaningfultransitions-visualcontinuity1_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/meaningfultransitions-visualcontinuity1_large_xhdpi.webm" type="video/webm">
 </video>  
 <p> <font color="red">(上图)不可取</font></p>  
 避免瞬间切屏(hard cut)。瞬间切屏过于突兀，并且会导致用户很难理解这个转场。
@@ -57,13 +57,13 @@
 ### 示例
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-meaningfultransitions-hierarchicaltiming4do_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/animation-meaningfultransitions-hierarchicaltiming4do_large_xhdpi.webm" type="video/webm">
 </video>  
-<p> <font color="green">(上图)可取</font></p> 
+<p> <font color="green">(上图)可取</font></p>
 用递次的动画引导用户注意力。  
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-meaningfultransitions-hierarchicaltiming1dont_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/animation-meaningfultransitions-hierarchicaltiming1dont_large_xhdpi.webm" type="video/webm">
 </video>  
 <p> <font color="red">(上图)不可取</font></p>  
 所有元素同时变动的话会使得重要的内容无法突出展示。如果所有元素都同样重要(你确定会发生这种情况的话)，可以考虑采用更高层级的动画，使这些元素成组的显示。  
@@ -85,11 +85,11 @@
 ###  示例
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/meaningfultransitions-consistentchoreography_do1_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/meaningfultransitions-consistentchoreography_do1_large_xhdpi.webm" type="video/webm">
 </video>  
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/meaningfultransitions-consistentchoreography_dont3_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/meaningfultransitions-consistentchoreography_dont3_large_xhdpi.webm" type="video/webm">
 </video>  
 
 > 原文：[Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) 翻译：[Jingsha](http://github.com/jingsha) 校对：[阿九(Siton)](http://www.isiton.me)

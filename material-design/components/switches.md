@@ -4,9 +4,9 @@
 
 注释：下面示例中所示的图形环代表一个动画，并不是实际按钮的外观。
 
-## 复选框 
+## 复选框
 
-复选框允许用户从一组选项中选择多个。 
+复选框允许用户从一组选项中选择多个。
 
 如果需要在一个列表中出现多个 on/off 选项，复选框是一种节省空间的好方式。
 
@@ -17,7 +17,7 @@
 复选框通过动画来表达聚焦和按下的状态。
 
 <video crossorigin="anonymous" loop controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-switches-checkbox-spec_checkbox_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/components-switches-checkbox-spec_checkbox_large_xhdpi.webm" type="video/webm">
 </video>  
 复选框动作
 
@@ -34,7 +34,7 @@
 单选按钮通过动画来表达聚焦和按下的状态。
 
 <video crossorigin="anonymous" loop controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-switches-radiobutton-spec_radio_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/components-switches-radiobutton-spec_radio_large_xhdpi.webm" type="video/webm">
 </video>  
 单选框动作
 
@@ -57,7 +57,7 @@ On/off 开关切换单一设置选择的状态。开关控制的选项以及它�
 ![switches-radio_switches_spec_03_dark](../images/components-switches-radio_switches_spec_03_dark_large_mdpi.png)
 
 <video crossorigin="anonymous" loop controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-switches-switch-switches_spec_03_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/components-switches-switch-switches_spec_03_large_xhdpi.webm" type="video/webm">
 </video>
 
 ![switches-switch-switches_spec_10a](../images/components-switches-switch-switches_spec_10a_large_mdpi.png)

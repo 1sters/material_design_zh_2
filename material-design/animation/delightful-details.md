@@ -8,11 +8,11 @@
 细节动画的演示：
 
 <video crossorigin="anonymous" loop controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/DelightfulDetails_WellCrafted_v01_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/DelightfulDetails_WellCrafted_v01_large_xhdpi.webm" type="video/webm">
 </video>
 
 <video crossorigin="anonymous" loop controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-delightfulDetails-statusChange-example_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/animation-delightfulDetails-statusChange-example_large_xhdpi.webm" type="video/webm">
 </video>
 
 > 原文：[Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)  翻译：[com360](https://github.com/com360)  校对：[PoppinLp](https://github.com/poppinlp)

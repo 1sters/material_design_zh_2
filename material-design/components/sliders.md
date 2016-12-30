@@ -13,7 +13,7 @@
 暗色主题
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-sliders-continuous_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/components-sliders-continuous_large_xhdpi.webm" type="video/webm">
 </video>
 
 在滑动条(Bar)上图标相对于左边和/或右边的间距的呈现。
@@ -45,7 +45,7 @@
 暗色主题
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-sliders-discrete_large_xhdpi.webm" type="video/webm">
+<source src="http://materialdesign.eoemobile.com/components-sliders-discrete_large_xhdpi.webm" type="video/webm">
 </video>
 
 > 原文：[Sliders](http://www.google.com/design/spec/components/sliders.html) 翻译：[阿九(siton)](http://www.isiton.me) 校对：[chenyusi](https://github.com/chenyusi)

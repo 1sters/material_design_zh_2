@@ -19,13 +19,13 @@
 用户触摸的表面应该提升并且扩展到它原生的地方。这种扩张和运动将父元素到子元素的移动高亮，使用 material 运动曲线进行的自然运动。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/patterns_navigational-transitions_parent-to-child_list-02_xhdpi_019.mp4">
+<source src="http://materialdesign.eoemobile.com/patterns_navigational-transitions_parent-to-child_list-02_xhdpi_019.mp4">
 </video>
 
 父元素到子元素的过渡动画
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/patterns_navigational-transitions_parent-to-child_calendar_tablet_xhdpi_004.mp4">
+<source src="http://materialdesign.eoemobile.com/patterns_navigational-transitions_parent-to-child_calendar_tablet_xhdpi_004.mp4">
 </video>
 
 父元素到子元素的过渡动画效果
@@ -38,13 +38,13 @@
 当一个用户通过标签进行导航，将不会有高度变化。每个标签的内容和表面保持同样的高度。兄弟元素向左移出屏幕时，新的内容从右边滑进来。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/patterns_navigational-transitions_sibling-to-sibling_tabs-01_xhdpi_013.mp4">
+<source src="http://materialdesign.eoemobile.com/patterns_navigational-transitions_sibling-to-sibling_tabs-01_xhdpi_013.mp4">
 </video>
 
 兄弟元素过渡
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/patterns_navigational-transitions_sibling-to-sibling_tabs-02_xhdpi_003.mp4">
+<source src="http://materialdesign.eoemobile.com/patterns_navigational-transitions_sibling-to-sibling_tabs-02_xhdpi_003.mp4">
 </video>
 
 兄弟元素到兄弟元素的过渡动画

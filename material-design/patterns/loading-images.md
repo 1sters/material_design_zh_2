@@ -47,7 +47,7 @@
 加载图片时推荐长一点的持续时间，过渡时推荐短一点的持续时间。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/patterns-imagerytreatment-imageload-transition_large_xhdpi.mp4">
+<source src="http://materialdesign.eoemobile.com/patterns-imagerytreatment-imageload-transition_large_xhdpi.mp4">
 </video>
 
 加载和过渡动画
@@ -57,7 +57,7 @@
 这个过程对于大一点的屏幕比较理想，例如加载 Chrome OS 的墙纸。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/patterns_loadingimages_largescreen.mp4">
+<source src="http://materialdesign.eoemobile.com/patterns_loadingimages_largescreen.mp4">
 </video>
 
 动画显示了在大一点的屏幕上加载 Chrome OS 墙纸。
@@ -67,7 +67,7 @@
 给正在加载的图片一个小的位移。这里账户切换中的背景图片水平移动。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/patterns-loadingimages-loading-070901_Load_Add_Animation_xhdpi_002.mp4">
+<source src="http://materialdesign.eoemobile.com/patterns-loadingimages-loading-070901_Load_Add_Animation_xhdpi_002.mp4">
 </video>
 
 显示添加移动的视频。

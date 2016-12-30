@@ -36,14 +36,14 @@
 浮动操作按钮在被聚焦时会出现水墨，在被选中时会弹出来。
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab_01_xhdpi_002.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab_01_xhdpi_002.mp4">
 </video>
 
 
 浮动操作按钮获得焦点
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab_02_xhdpi_002.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab_02_xhdpi_002.mp4">
 </video>
 
 浮动操作按钮被选中
@@ -95,7 +95,7 @@ APP 主要操作的图案强制使用圆形图标
 
 <p> <font color="green">(上图)可取</font></p>
 
-<img src="../images/6_12.png" alt="" width=240 height=171 /> 
+<img src="../images/6_12.png" alt="" width=240 height=171 />
 
 <p> <font color="red">(上图)不可取</font></p>
 
@@ -105,7 +105,7 @@ APP 主要操作的图案强制使用圆形图标
 
 <p> <font color="green">(上图)可取</font></p>
 
-<img src="../images/6_13.png" alt="" width=240 height=171 /> 
+<img src="../images/6_13.png" alt="" width=240 height=171 />
 
 <p> <font color="red">(上图)不可取</font></p>
 
@@ -120,24 +120,24 @@ APP 主要操作的图案强制使用圆形图标
 
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-behavior_01_xhdpi_012.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-behavior_01_xhdpi_012.mp4">
 </video>
 
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-behavior_02_xhdpi_012.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-behavior_02_xhdpi_012.mp4">
 </video>
 
 如果在多个旁边的屏幕上有浮动操作按钮（比如选项卡），在进入屏幕时，若在每个屏幕上的操作不同，按钮应该显示和隐藏。若操作相同，按钮应该停留在屏幕上（如果有需要，转换到新的位置上）
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-behavior_03_xhdpi_001.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-behavior_03_xhdpi_001.mp4">
 </video>
 
 <p> <font color="green">(上图)可取</font></p>
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-behavior_04_xhdpi_009.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-behavior_04_xhdpi_009.mp4">
 </video>
 
 
@@ -146,13 +146,13 @@ APP 主要操作的图案强制使用圆形图标
 对于带有标签的屏幕，浮动操作按钮不应朝着屏幕退出时的同一方向退出屏幕。否则会导致视觉噪音。这也将导致在屏幕上出现一个失灵的浮动操作按钮。此外，它错误地暗示了浮动操作按钮与内容在相同的 Z 水平高度上，而不是在根水平高度中 UI 主元素所在的水平高度的上。
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-behavior_05_xhdpi_009.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-behavior_05_xhdpi_009.mp4">
 </video>
 
 <p> <font color="red">(上图)不可取</font></p>
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-behavior_06_xhdpi_009.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-behavior_06_xhdpi_009.mp4">
 </video>
 
 <p> <font color="red">(上图)不可取</font></p>
@@ -170,13 +170,13 @@ APP 主要操作的图案强制使用圆形图标
 浮动操作按钮可以只是简单地触发一个操作或是某处的导航。触摸脉动的动画随着导致变化的力量而向外扩张。
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_trigger_01.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_trigger_01.mp4">
 </video>
 
 一个浮动操作按钮可以简单地触发一个操作。
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_trigger_02.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_trigger_02.mp4">
 </video>
 
 浮动操作按钮让地图视图回到中心位置
@@ -188,13 +188,13 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 浮动操作按钮可在按下时或从滚动工具栏转换为工具栏。工具栏可以包含相关的操作、文本和搜索方面功能，或者任何手边有用的部件。
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_toolbar_01.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_toolbar_01.mp4">
 </video>
 
 浮动操作按钮变成一个工具栏
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_toolbar_02.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_toolbar_02.mp4">
 </video>
 
 浮动操作按钮变成一个工具栏
@@ -202,13 +202,13 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 一个工具栏在滚动条上消失对屏幕来说非常有用。而整个工具栏在屏幕的初始输入或一个长列表的顶部或底部时非常需要。
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_scrolltoolbar_01.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_scrolltoolbar_01.mp4">
 </video>
 
 工具栏在滚动时转变成一个浮动操作按钮
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_scrolltoolbar_02.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_scrolltoolbar_02.mp4">
 </video>
 
 工具栏在滚动时转变成一个浮动操作按钮
@@ -228,13 +228,13 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 浮动动作按钮可在按下时将相关动作实现。按钮在菜单被调用后应扔保留在屏幕上。点击同一点应能够激活最常用的操作或关闭已打开的菜单。
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_speeddial_01.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_speeddial_01.mp4">
 </video>
 
 一个浮动的操作按钮能够释放相关的操作。
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_speeddial_02.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_speeddial_02.mp4">
 </video>
 
 一个浮动的操作按钮能够释放相关的操作。
@@ -242,13 +242,13 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 浮动操作按钮可以转变为一个包含所有操作的 material 单页。
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_card_01.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_card_01.mp4">
 </video>
 
 一个浮动按钮转变为一个 material 单页
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_card_02.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_card_02.mp4">
 </video>
 
 一个浮动按钮转变为一个 material 单页
@@ -268,7 +268,7 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 不要在浮动操作按钮的选项中放置外链按钮。从原始屏幕到目的页面应该最多两次点击。
 
 <img src="../images/6_19.png" alt="" width=360 height=256 />  
-  
+
 
 选项应该指明目的页面。
 
@@ -301,7 +301,7 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 浮动操作按钮可以转变为相关操作。
 
 ![](../images/6_26.png)   
- 
+
 浮动操作按钮不应该转变为不相关的操作。
 
 浮动操作按钮可以包含一个联系人列表。这个列表不应该包含不相关的操作。
@@ -323,13 +323,13 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 变形动画应该是可逆的，可以将新的 material 单页变回为浮动操作按钮。
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_morph_01.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_morph_01.mp4">
 </video>
 
 浮动操作按钮可以变形为一个 material 单页，app 结构中的一部分。
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_morph_02.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_morph_02.mp4">
 </video>
 
 浮动操作按钮可以变形为一个 material 单页，app 结构中的一部分。
@@ -341,13 +341,13 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 这种戏剧性的转变通常与创造新的内容相关。其结果是，它不趋向于具有撤销转变或可逆操作的方法
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_fullscreen_01.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_fullscreen_01.mp4">
 </video>
 
 浮动动作按钮可以转变成占满整个屏幕的新型物品。
 
 <video crossorigin="anonymous"  loop  controls width="760" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components-buttons-fab-transition_fullscreen_02.mp4">
+<source src="http://materialdesign.eoemobile.com/components-buttons-fab-transition_fullscreen_02.mp4">
 </video>
 
 
@@ -359,7 +359,7 @@ App 通常使用一个单一的浮动操作按钮。然而，本例使用了两�
 
 浮动操作按钮可以附属到一个扩展的 app bar。
 
-<img src="../images/6_29.png" alt="" width=380 height=285 /> 
+<img src="../images/6_29.png" alt="" width=380 height=285 />
 
 <p> <font color="green">(上图)可取</font></p>
 

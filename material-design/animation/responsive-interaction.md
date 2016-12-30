@@ -13,11 +13,11 @@
 表层响应
 
 
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-inkreactions-notouchripplepressandrelease_large_xhdpi.mp4" controls="controls" width="740" loop height="350"></video>      
+<video src="http://materialdesign.eoemobile.com/animation-responsiveinteraction-inkreactions-notouchripplepressandrelease_large_xhdpi.mp4" controls="controls" width="740" loop height="350"></video>      
 
 元素响应
 
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsive-interation-radialReact-example_large_xhdpi.mp4" controls="controls" width="740" loop height="350"></video>       
+<video src="http://materialdesign.eoemobile.com/animation-responsive-interation-radialReact-example_large_xhdpi.mp4" controls="controls" width="740" loop height="350"></video>       
 
 径向响应
 
@@ -34,13 +34,13 @@
 
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-surfacereaction-030202_TouchRipple_PressRelease_xhdpi_002.mp4">
+<source src="http://materialdesign.eoemobile.com/animation-responsiveinteraction-surfacereaction-030202_TouchRipple_PressRelease_xhdpi_002.mp4">
 </video>      
- 
+
 触控涟漪-点击/释放
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-surfacereaction-030202_TouchRipple_DragRelease_xhdpi_002.mp4">
+<source src="http://materialdesign.eoemobile.com/animation-responsiveinteraction-surfacereaction-030202_TouchRipple_DragRelease_xhdpi_002.mp4">
 </video>       
 
 触控涟漪-拖进/拖出
@@ -59,14 +59,14 @@
 当用户操作生成一个新元素时，元素的动画应该基于触控点展开。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-materialresponse-PointOfOrigin_DO_003.mp4">
+<source src="http://materialdesign.eoemobile.com/animation-responsiveinteraction-materialresponse-PointOfOrigin_DO_003.mp4">
 </video>   
- 
+
 <p> <font color="green">(上图)可取</font></p>
 元素从触控点展开时，通过视觉效果将元素与触控点联系起来。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-materialresponse-PointOfOrigin_DONT_003.mp4">
+<source src="http://materialdesign.eoemobile.com/animation-responsiveinteraction-materialresponse-PointOfOrigin_DONT_003.mp4">
 </video>    
 
 <p> <font color="red">(上图)不可取</font></p>
@@ -78,7 +78,7 @@
 当卡片元素或可分离元素被激活时，应该浮起以表明正处于激活状态。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-materialresponce_liftontouch_xhdpi_002.mp4">
+<source src="http://materialdesign.eoemobile.com/animation-responsiveinteraction-materialresponce_liftontouch_xhdpi_002.mp4">
 </video>     
 
 点击浮动

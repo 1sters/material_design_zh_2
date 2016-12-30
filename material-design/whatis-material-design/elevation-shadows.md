@@ -26,7 +26,7 @@ Material design 中的对象与现实生活中的对象具有相似的性质。�
 ```
 
 ![](../images/3_1.png)    
- 
+
 两个对象间的多种高度度量
 
 ### 静止高度   
@@ -63,15 +63,15 @@ Material design 中的对象与现实生活中的对象具有相似的性质。�
 下面的图表对比了多种元素的静止高度和动态高度偏移。
 
 ![](../images/3_2.png)    
-  
+
 在这一图表中，只有高度的尺寸和元素布局是精确的。其他尺寸和整体的元素布局只是为了说明而列出的。
 
 ![](../images/3_3.png)   
-  
+
 一个包含卡片和FAB应用布局的实例与它在Z轴上元素高度的横截面图表。
 
 ![](../images/3_4.png)    
-  
+
 一个包含开放导航抽屉的应用布局实例与它在Z轴上元素高度的横截面图表。
 
 ## 阴影    
@@ -79,29 +79,29 @@ Material design 中的对象与现实生活中的对象具有相似的性质。�
 “阴影”提供了对象深度和方向性移动的重要视觉线索。它们是唯一一种标示不同平面之间分离程度的视觉线索。某一对象的“高度”决定了其具体“阴影”的表现形式。
 
 ![](../images/3_5.png)   
-  
+
 否。一旦没有了阴影，没有什么可以标示浮动动作按钮是从背景层分离出来的。
 
 ![](../images/3_6.png)    
-  
+
 否。卷曲的阴影说明浮动动作按钮与“蓝层”（blue sheet）是两个分离开来的元素。然而，由于它们的阴影非常的相似以至于会被误认为它们在同一高度上。
 
 ![](../images/3_7.png)     
- 
+
 是。更柔和、更大的阴影说明浮动动作按钮相比于拥有更卷曲阴影的“蓝层”（blue sheet）处于更高的高度之上。
 
 在运动中，阴影提供了关于某个对象移动方向以及不同平面之间距离是否正在增加或减少的有用线索。
 
 ![](../images/3_8.png)     
- 
+
 否。如果没有一个阴影来说明高度，那么就不能明确一个方形到底是它的自身尺寸在增加还是它的高度在增加。
 
 ![](../images/3_9.png)    
-  
+
 是。当某一个对象的高度增加时其阴影会变得更柔和、更大，当其高度减小时，阴影会变得更卷曲。
 
 ![](../images/3_10.png)    
- 
+
 是。在这一实例中，连贯的阴影帮助用户明白某一个对象看起来好像是它的高度在增加其实是它的形状在改变。
 
 ## 元素参考阴影    
@@ -170,7 +170,7 @@ Material design 中的对象与现实生活中的对象具有相似的性质。�
 3dp
 
 ![](../images/3_22.png)    
- 
+
 **快速查询/搜索条**
 
 静止状态：2dp
@@ -184,7 +184,7 @@ Material design 中的对象与现实生活中的对象具有相似的性质。�
 6dp
 
 ![](../images/3_25.png)    
- 
+
 **切换按钮**
 
 1dp
@@ -225,18 +225,13 @@ Material design 中的对象与现实生活中的对象具有相似的性质。�
 你会如何确定某些对象的高度（即它们在 Z 空间的位置）取决于你想描述的内容层次以及某一个对象是否需要相对于其他对象自主移动。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/WhatIsMaterial_ObjectsIn3DSpace_ObjectRelationships_01_RaisedChildButton_001.mp4">
+<source src="http://materialdesign.eoemobile.com/WhatIsMaterial_ObjectsIn3DSpace_ObjectRelationships_01_RaisedChildButton_001.mp4">
 </video>
 
 随着父表的移动，升高的按钮（它的子元素）会伴随着它移出屏幕。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/WhatIsMaterial_ObjectsIn3DSpace_ObjectRelationships_02_FAB_001.mp4">
+<source src="http://materialdesign.eoemobile.com/WhatIsMaterial_ObjectsIn3DSpace_ObjectRelationships_02_FAB_001.mp4">
 </video>   
 
 随着卡片集合卷出了屏幕，它的子卡片也会随之卷出屏幕。浮动动作按钮保留在某一地点因为它的父元素没有被卷动。
-
-
-
-
-

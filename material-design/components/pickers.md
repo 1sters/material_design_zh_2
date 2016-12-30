@@ -23,7 +23,7 @@
 从左滑到右来选择月份。点击标题 bar 中的年份转换到年份页面。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components_pickers_date_navigation_xhdpi_004.mp4">
+<source src="http://materialdesign.eoemobile.com/components_pickers_date_navigation_xhdpi_004.mp4">
 </video>
 
 日期选择导航
@@ -56,7 +56,7 @@
 在标题 bar 中点击小时和分钟标签的中间来切换小时和分钟页面。另外，点击标题 bar 中的 AM/PM 标签来切换 AM 与 PM（在 12 小时的时钟模式下）。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/components_pickers_time_transition.mp4">
+<source src="http://materialdesign.eoemobile.com/components_pickers_time_transition.mp4">
 </video>
 
 时间选择导航

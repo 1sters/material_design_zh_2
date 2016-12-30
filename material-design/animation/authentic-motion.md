@@ -13,14 +13,14 @@
 
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-authenticmotion-massandweight-asymmetric.mp4">
+<source src="http://materialdesign.eoemobile.com/animation-authenticmotion-massandweight-asymmetric.mp4">
 </video>
 
 
 <p> <font color="green">(上图)可取：迅速的加速和平滑的减速会感到自然和愉快</font></p>
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-authenticmotion-massandweight-do.mp4">
+<source src="http://materialdesign.eoemobile.com/animation-authenticmotion-massandweight-do.mp4">
 </video>
 
 <p> <font color="red">(上图)不可取：线性动作会感到机械，在结束和开始的时候生硬的速度变化意味着物体突然开始运动或停止，这是不贴合现实的。</font></p>
@@ -31,13 +31,13 @@
 当一个物体进入这个场景时，请确保它在最高速度下移动，这个行为模拟了自然移动：一个人进入场景的时候，并不是从场景的边缘开始走入的，而是从更远的地方。当然，一个物体退出这个场景时，需要维持它的速度，缓慢的离开场景，逐渐的进入和缓慢的离开会把用户的注意力吸引到这个动作上，在大多数情况下，这是你希望的效果。
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-authenticmotion-massandweight-linear.mp4">
+<source src="http://materialdesign.eoemobile.com/animation-authenticmotion-massandweight-linear.mp4">
 </video>
 
 <p> <font color="green">(上图)可取：小球在最大的速度下进入和退出场景，创造了一个确信的过渡效果。</font></p>
 
 <video crossorigin="anonymous"  loop  controls width="740" height="350">
-<source src="http://materialdesign.qiniudn.com/videos/animation-authenticmotion-massandweight-dont.mp4">
+<source src="http://materialdesign.eoemobile.com/animation-authenticmotion-massandweight-dont.mp4">
 </video>
 
 <p> <font color="red">(上图)不可取：快速进入和缓慢离开，不要让用户因速度变化转移注意力。</font></p>

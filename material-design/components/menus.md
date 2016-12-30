@@ -40,16 +40,16 @@
 
 下面这些动画演示了菜单的滚动和级联。
 
-<video width="740" height="350" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_toolbar_large_xhdpi.webm" controls="controls"></video>  
+<video width="740" height="350" src="http://materialdesign.eoemobile.com/components-menus-menus-textfield_toolbar_large_xhdpi.webm" controls="controls"></video>  
 下拉
 
-<video width="740" height="350" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.webm" controls="controls"></video>  
+<video width="740" height="350" src="http://materialdesign.eoemobile.com/components-menus-menus-textfield_dropdown_spec_large_xhdpi.webm" controls="controls"></video>  
 文本框下拉
 
-<video width="740" height="350" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-appbar_dropdown2_spec_large_xhdpi.webm" controls="controls"></video>  
+<video width="740" height="350" src="http://materialdesign.eoemobile.com/components-menus-menus-appbar_dropdown2_spec_large_xhdpi.webm" controls="controls"></video>  
 应用工具条下拉
 
-<video width="740" height="350" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" controls="controls"></video>  
+<video width="740" height="350" src="http://materialdesign.eoemobile.com/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" controls="controls"></video>  
 级联下拉
 
 ## 菜单项
@@ -108,8 +108,8 @@
 
 <p> <font color="red">(上图)不可取</font></p>
 
-![](../images/components-menus-behavior-menus-p-04b_large_mdpi.png) 
- 
+![](../images/components-menus-behavior-menus-p-04b_large_mdpi.png)
+
 <p> <font color="red">(上图)不可取</font></p>
 
 ## 尺寸标准

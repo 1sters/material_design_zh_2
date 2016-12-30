@@ -41,7 +41,7 @@
 工具提示动画
 
 <video width="740" height="350" loop="true" controls="controls"
-src="http://materialdesign.qiniudn.com/videos/components-tooltips-cursorkeyboardtooltips-tooltips_005_large_xhdpi.webm" ></video>
+src="http://materialdesign.eoemobile.com/components-tooltips-cursorkeyboardtooltips-tooltips_005_large_xhdpi.webm" ></video>
 
 ## 触摸屏UI的工具提示
 

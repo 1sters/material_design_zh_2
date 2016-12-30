@@ -7,7 +7,7 @@
 
 ![style-typography-roboto-typography.roboto2_specimen_large_mdpi](../images/style-typography-roboto-typography.roboto2_specimen_large_mdpi.png)  
 
-[Roboto字体 - 1.21 MB(.zip)](http://materialdesign.qiniudn.com/downloads/RobotoTTF.zip)    
+[Roboto字体 - 1.21 MB(.zip)](http://materialdesign.eoemobile.com/RobotoTTF.zip)    
 
 ## 标准样式（Standard Styles）
 
@@ -114,7 +114,7 @@
 ### 换行规则/连字符（Line breaking rules / Hypenation）
 
 ![style-typography-33_large_mdpi](../images/style-typography-32_large_mdpi.png)     
-<p> <font color="green">(上图)可取</font></p> 
+<p> <font color="green">(上图)可取</font></p>
 
 |![](../images/style-typography-33_large_mdpi.png)   
 <p> <font color="red">(上图)不可取</font></p>
@@ -130,9 +130,9 @@
 “过窄：如果每行文本过少，会导致眼睛来回扫视过于频繁，破坏阅读的节奏。过短的内容还会给人压力，导致用户完成本行阅读前过早跳转到下一行阅读（因此会错过潜在的重要信息）。”
 
 参考: [可读性: 最佳行长度](http://baymard.com/blog/line-length-readability)
- 
+
 ### 字间距（Tracking and kerning）
 
 ![style-typography-36_large_mdpi](../images/style-typography-36_large_mdpi.png)   
 
-> 原文：[Typography](http://www.google.com/design/spec/style/typography.html) 翻译：[acely](https://github.com/acely) 校对：[chenyusi](https://github.com/chenyusi) 
+> 原文：[Typography](http://www.google.com/design/spec/style/typography.html) 翻译：[acely](https://github.com/acely) 校对：[chenyusi](https://github.com/chenyusi)

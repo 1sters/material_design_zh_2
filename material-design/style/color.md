@@ -4,7 +4,7 @@
 
 色彩从当代建筑、路标、人行横道以及运动场馆中获取灵感，由此引发出大胆的颜色表达激活了色彩，与单调乏味的周边环境形成鲜明的对比。强调大胆的阴影和高光。引出意想不到且充满活力的颜色。
 
-[色样 - 0.13 MB(.zip)](http://materialdesign.qiniudn.com/downloads/color_swatches.zip)
+[色样 - 0.13 MB(.zip)](http://materialdesign.eoemobile.com/color_swatches.zip)
 
 ## UI调色板
 
@@ -62,7 +62,7 @@
 - 浅色
 - 深色
 
-[主题 - 1.3 MB(.ai)](http://materialdesign.qiniudn.com/downloads/stickersheet_uielements.ai)
+[主题 - 1.3 MB(.ai)](http://materialdesign.eoemobile.com/stickersheet_uielements.ai)
 
 ![choose9 icon](../images/Style-Color-Themes-theme-01_large_mdpi.png)
 ![choose10 icon](../images/Style-Color-Themes-theme-02_large_mdpi.png)
