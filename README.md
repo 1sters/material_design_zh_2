@@ -6,7 +6,7 @@ Google I/O 2014 发布 [Material Design](http://www.google.com/design/spec/mater
 
 历时一年，官方已经新增 20+ 章节，我们再次发力，于「2015-08-16」翻译校对完毕所有新增章节，重新发布。为了省去网站开发和运维的时间成本，本次发布直接托管在 [极客学院 Wiki](http://wiki.jikexueyuan.com) 提供的图文教程平台之上。   
 
-到来的朋友请 `点赞` 或 `分享吆喝` 支持，想进一步深入交流，请加 QQ 群：137198122
+想进一步深入交流，请加我们的 [微信群 >>](https://shimo.im/forms/3cF27grKowUnmlSw/fill)
 
 ## 内容来源
 
